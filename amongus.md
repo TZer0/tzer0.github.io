@@ -31,5 +31,6 @@ As an impostor
 Q&A
 =
 
-Q: How do I fake doing a task as an impostor?
+**Q: How do I fake doing a task as an impostor?**
+
 A: This takes a bit of experience, but in general the way you do it is that you stand at a station with a fakeable task until the global completion progress bar moves while someone is watching you do it. Careful to not move too early or too late (depending on the task). Don't try to fake doing a very short task (such as pressing a button) or visual tasks (such as doing asteroids)
