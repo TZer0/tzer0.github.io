@@ -16,7 +16,7 @@ As a crewmate
 - Make sure to vote (including skip vote), else a sneaky impostor might vote just before the timer expires.
 - When you report a body, consider asking where everyone is before revealing where the body was found. This can be exploited by impostors too to frame someone, but can also let you catch a lying impostor.
 - Avoid piling on top of others on common tasks. Sneaky impostors might try to get a kill in the stack.
-- Generally assume that someone accusing someone else and saying definitive things such as "they vented" or "they killed X" was speaking the truth if they end up dead between meetings. Be careful following this advice outside of playing with friends as people do weird things in pubs.
+- Generally assume that someone accusing someone else and saying definitive things such as "they vented" or "they killed X" was speaking the truth if they end up dead between meetings. Be careful following this advice outside of playing with people you know as strangers do weird things in pubs.
 - Are the impostors going for a double-kill against four crewmates to end the game during a sabotage? Mash R and you might catch them killing one person before the second person dies.
 
 As an impostor
