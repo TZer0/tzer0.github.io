@@ -1,1 +1,1 @@
-<Among Us Tips & Tricks>(/amongus.html)
+[Among Us Tips & Tricks](/amongus.html)
