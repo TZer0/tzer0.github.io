@@ -1,4 +1,4 @@
-Basic Tips and Tricks
+Among Us: Basic Tips and Tricks
 =
 
 General
