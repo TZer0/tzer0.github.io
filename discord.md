@@ -26,8 +26,8 @@ Securing your server with an airlock (people have to ask moderators to be let in
 3. Create whatever new channels you need.
 4. If you have an existing server, drag your old channels into this category. If you've set special permissions on any of your old channels, right-click on them, edit, go to the permissions-tab, click the "Sync Now"-button.
 5. Create a role for moderators, from now on referred to as "@moderator".
-6. Grant @Mod the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
-7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @Mod to see it.
+6. Grant @moderator the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
+7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @moderator to see it.
 
 General warnings/notes regarding Discord:
 -
