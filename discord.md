@@ -1,5 +1,8 @@
-Horrible things about Discord
+Discord-stuff
 =
+
+Horrible things about Discord
+-
 
 1. Channel permissions are OR, not AND or TOP. This causes a lot of headaches and you can't effectively have an accept-gate + channel hiding using roles.
 2. No rule-board where all mods can edit the rules.
@@ -14,9 +17,6 @@ Horrible things about Discord
 11. Discord often crashes when trying to stream or when you stop streaming.
 12. A lot of things that ought to have been standard is something you need to do via a bot.
 
-
-General Discord-server/guild advice
-=
 
 Securing your server with an airlock (people have to ask moderators to be let in):
 -
