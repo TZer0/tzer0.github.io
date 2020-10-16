@@ -3,5 +3,3 @@ This is a list of information I want to keep online for easy sharing. I got fed 
 [Among Us Tips & Tricks](/amongus.html)
 
 [Discord-stuff](/discord.html)
-
-[Github-repo](https://github.com/TZer0/tzer0.github.io)
