@@ -19,7 +19,7 @@ Horrible things about Discord
 13. No way to avoid having someone on the top of the authority-chain, having a properly democratic server is impossible.
 
 
-Securing your server with an airlock (people have to ask moderators to be let in):
+Securing your server with an airlock (people have to ask moderators to be let in)
 -
 1. Create a trusted role, from now on referred to as "@member".
 2. Create any number of categories for your channels. Select that you're creating a private category, find @member in the list, click on the toggle next to it and then create category.
@@ -29,7 +29,7 @@ Securing your server with an airlock (people have to ask moderators to be let in
 6. Grant @moderator the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
 7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @moderator to see it.
 
-General warnings/notes regarding Discord:
+General warnings/notes regarding Discord
 -
 * Always put roles for administrators and moderators on the top.
 * Do not create a role with any potentially destructive permissions (such as "Administrator, "Ban Members") low in the hierarchy of roles.
