@@ -16,6 +16,7 @@ Horrible things about Discord
 10. Discord still parses parts of embeds - especially tweets.
 11. Discord often crashes when trying to stream or when you stop streaming.
 12. A lot of things that ought to have been standard is something you need to do via a bot.
+13. No way to avoid having someone on the top of the authority-chain, having a properly democratic server is impossible.
 
 
 Securing your server with an airlock (people have to ask moderators to be let in):
