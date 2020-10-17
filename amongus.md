@@ -8,6 +8,12 @@ Key bindings:
 * R - report
 * Q - (as impostor) kill
 
+Maps
+-
+- [Skeld](https://www.reddit.com/r/AmongUs/comments/f6m9mx/skeld_map_guide/)
+- [Mira HQ](https://www.reddit.com/r/AmongUs/comments/ihhba0/mira_hq_map_guide/)
+- [Polus](https://www.reddit.com/r/AmongUs/comments/ij9qiv/polus_map_guide_w_marked_tasks_cameras_vents/)
+
 As a crewmate
 -
 - Unless it is 100% certain who killed, do not vote when there are 7 people left (and two impostors). This leaves you at 6, which means that the impostors can sabotage a couple of seconds before the meeting cooldown ends and then mash the kill-buttons for a double-kill. If three people vouch, it still might be worth the risk. Voting at four with one impostor is also dangerous and will end the game once people know how to play.
@@ -30,8 +36,12 @@ As an impostor
 - If you somehow are left at 6 (with two of you alive), find one person each and time the kills with the kill cooldown reset.
 
 Q&A
-=
+-
 
 **Q: How do I fake doing a task as an impostor?**
 
 A: This takes a bit of experience, but in general the way you do it is that you stand at a station with a fakeable task until the global completion progress bar moves while someone is watching you do it. Careful to not move too early or too late (depending on the task). Don't try to fake doing a very short task (such as pressing a button) or visual tasks (such as doing asteroids)
+
+Suggested additional rules
+-
+- On Polus it should not be allowed to ask which keyhole you had in the key common tasks. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it.
