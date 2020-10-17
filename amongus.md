@@ -44,4 +44,4 @@ A: This takes a bit of experience, but in general the way you do it is that you 
 
 Suggested additional rules
 -
-- On Polus it should not be allowed to ask which keyhole you had in the key common tasks. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it.
+- On Polus it should not be allowed to ask which keyhole you had in the key common task. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it.
