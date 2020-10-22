@@ -1,27 +1,6 @@
 Discord-stuff
 =
 
-Horrible things about Discord
--
-
-1. Channel permissions are OR, not AND or TOP. This causes a lot of headaches and you can't effectively have an accept-gate + channel hiding using roles.
-2. No rule-board where all mods can edit the rules.
-3. No metadata for profiles so you can't just set your pronouns globally in an easy way.
-4. The permission to ban is the same as the permission to view the ban list.
-5. If you dig around using the js console in the client, you can view the names and description of all channels even if they're hidden to you.
-6. No official SDK for any language to make a bot.
-7. No one really knows how moderation on Discord works. What gets a server banned is still unknown.
-8. You can't easily report a message unless you're a moderator.
-9. Porn-spammers do not get banned even if reported.
-10. Discord still parses parts of embeds - especially tweets.
-11. Discord often crashes when trying to stream or when you stop streaming.
-12. A lot of things that ought to have been standard is something you need to do via a bot.
-13. No way to avoid having someone on the top of the authority-chain, having a properly democratic server is impossible.
-14. If you don't have admin (but have mod), you can't click the clear permissions button for a role even if you are able to turn off each of them individually.
-15. New roles inherit from @everyone. This means that if you forgot to remove the ability to ping @everyone before you remove that permission from @everyone, you'll have to go through every role individually and do it for every single one of them.
-16. Granting someone read messages permissions in a channel doesn't update what they see. They'll have to restart the client to see what they're now allowed to see.
-
-
 Securing your server with an airlock (people have to ask moderators to be let in)
 -
 1. Create a trusted role, from now on referred to as "@member".
@@ -42,4 +21,25 @@ General warnings/notes regarding Discord
 * Do not give bots permissions they shouldn't have. Dyno and MEE6 are notorious for asking for all the permissions, give them only the minimum they need and modify them as you see fit later.
 * Do not give bots @member. Instead create a separate role ("@bots") and channel that @member, and bots can see.
 * When creating a new non-functional role (pingable things), make sure to clear perms.
+
+
+Horrible things about Discord
+-
+
+1. Channel permissions are OR, not AND or TOP. This causes a lot of headaches and you can't effectively have an accept-gate + channel hiding using roles.
+2. No rule-board where all mods can edit the rules.
+3. No metadata for profiles so you can't just set your pronouns globally in an easy way.
+4. The permission to ban is the same as the permission to view the ban list.
+5. If you dig around using the js console in the client, you can view the names and description of all channels even if they're hidden to you.
+6. No official SDK for any language to make a bot.
+7. No one really knows how moderation on Discord works. What gets a server banned is still unknown.
+8. You can't easily report a message unless you're a moderator.
+9. Porn-spammers do not get banned even if reported.
+10. Discord still parses parts of embeds - especially tweets.
+11. Discord often crashes when trying to stream or when you stop streaming.
+12. A lot of things that ought to have been standard is something you need to do via a bot.
+13. No way to avoid having someone on the top of the authority-chain, having a properly democratic server is impossible.
+14. If you don't have admin (but have mod), you can't click the clear permissions button for a role even if you are able to turn off each of them individually.
+15. New roles inherit from @everyone. This means that if you forgot to remove the ability to ping @everyone before you remove that permission from @everyone, you'll have to go through every role individually and do it for every single one of them.
+16. Granting someone read messages permissions in a channel doesn't update what they see. They'll have to restart the client to see what they're now allowed to see.
 
