@@ -21,6 +21,7 @@ General warnings/notes regarding Discord
 * Do not give bots permissions they shouldn't have. Dyno and MEE6 are notorious for asking for all the permissions, give them only the minimum they need and modify them as you see fit later.
 * Do not give bots @member. Instead create a separate role ("@bots") and channel that @member, and bots can see.
 * When creating a new non-functional role (pingable things), make sure to clear perms.
+* Create a text channel for linking/chatting next to voice chats.
 
 
 Horrible things about Discord
