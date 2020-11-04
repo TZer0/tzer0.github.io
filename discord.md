@@ -23,6 +23,7 @@ General warnings/notes regarding Discord
 * When creating a new non-functional role (pingable things), make sure to clear perms.
 * Create a text channel for linking/chatting next to voice chats.
 * Remember to turn off @everyone before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
+* Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode in user settings -> appearance).
 
 
 Horrible things about Discord
