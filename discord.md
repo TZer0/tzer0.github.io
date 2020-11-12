@@ -13,6 +13,7 @@ Securing your server with an airlock (people have to ask moderators to be let in
 
 General warnings/notes regarding Discord
 -
+* As a mod/admin/owner, you want developer mode on at all times (user settings -> appearance).
 * Always put roles for administrators and moderators on the top.
 * Do not create a role with any potentially destructive permissions (such as "Administrator, "Ban Members") low in the hierarchy of roles.
 * Anyone with "Administrator", "Manage Server", "Manage Channels" or "Manage Roles" can seriously mess things up for you, but it will be noted in the audit log who did it.
@@ -23,19 +24,20 @@ General warnings/notes regarding Discord
 * When creating a new non-functional role (pingable things), make sure to clear perms.
 * Create a text channel for linking/chatting next to voice chats.
 * Remember to turn off @everyone before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
-* Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode in user settings -> appearance).
+* Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode).
+* If you want a bigger version of someone's pfp, try [discord.id](https://discord.id/) and paste in the user's unique ID (dev mode, copy ID).
 
 
 General notes about interactions in digital spaces
 -
 
 * If you have set up the airlock-system mentioned above, be vary of people who ping the moderator-tag to be let in. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
-* Writing down some rules is a must when the server hits anything beyond 20 users, preferably as earlier. If you start creating rules after an incident, the rules will feel as a permanent reminder for the offender and will lead to more negative tension. Rules are in my opinion more about shaping the environment than using the banhammer to enforce them.
+* Writing down some rules is a must when the server hits anything beyond 20 users, preferably even earlier. If you start creating rules after an incident, the rules will feel as a permanent reminder for the offender and will lead to more negative tension. Rules are in my opinion more about shaping the environment than using the banhammer to enforce them.
 * Make sure to have a suggestions-channel to avoid mods having to handle suggestions in DMs.
 
 Useful bots
 -
-- [Carl Bot](https://carl.gg/) - Has custom commands and a way to set up react roles.
+- [Carl Bot](https://carl.gg/) - Has custom commands and a way to set up react roles. The react roles are a bit fiddly to deal with for mods, but are a rather optimal solution for the users.
 - [MEE6](https://mee6.xyz) - Custom commands, has feature to post Youtube-feeds, some role options. Starting to get premiumfied (more and more restricted features for non-paying users)
 - [Rythm](https://rythmbot.co/) + [Groovy](https://groovy.bot/) - two music bots that use different prefixes. You might want one or both.
 - [Roleypoly](https://roleypoly.com/) - Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
