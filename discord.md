@@ -34,7 +34,7 @@ Useful bots
 - [Roleypoly](https://roleypoly.com/) - Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
 
 Horrible things about Discord
-
+-
 1. Channel permissions are OR, not AND or TOP. This causes a lot of headaches and you can't effectively have an accept-gate + channel hiding using roles.
 2. No rule-board where all mods can edit the rules.
 3. No metadata for profiles so you can't just set your pronouns globally in an easy way.
