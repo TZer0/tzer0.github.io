@@ -45,8 +45,7 @@ This assumes you've already set up reaction roles using `!rr make`.
 !rr add MESSAGEID :emojiname: ROLENAME
 !rr edit MESSAGEID CATEGORYNAME | {roles}
 ```
-
-Example:
+* Example:
 ```
 !rr add 730747295406096384 :microphone2: Voice Chat Anyone?
 !rr edit 730747295406096384 Pingable Roles | {roles}
