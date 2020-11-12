@@ -26,8 +26,15 @@ General warnings/notes regarding Discord
 * Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode in user settings -> appearance).
 
 
+Useful bots
+Bots
+- Carl Bot
+- [Carl Bot](https://carl.gg/) - Has custom commands and a way to set up react roles.
+- [MEE6](https://mee6.xyz) - Custom commands, has feature to post Youtube-feeds, some role options. Starting to get premiumfied (more and more restricted features for non-paying users)
+- [Rythm](https://rythmbot.co/) + [Groovy](https://groovy.bot/) - two music bots that use different prefixes. You might want one or both.
+- [Roleypoly](https://roleypoly.com/) - Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
+
 Horrible things about Discord
--
 
 1. Channel permissions are OR, not AND or TOP. This causes a lot of headaches and you can't effectively have an accept-gate + channel hiding using roles.
 2. No rule-board where all mods can edit the rules.
