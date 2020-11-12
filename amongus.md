@@ -35,12 +35,18 @@ As an impostor
 - For the final showdown in a 3 v 1, you have effectively two strategies. If everyone is still scattering, try to kill people off in each their own corner of the map, if you're going together then you must cause enough confusion that you are alone with three people for even a moment, stab one and blame it on the other person. If you can, kill the most trustworthy person and leave the person who has been the most suspicious recently and throughout the game alive (if two people leave you alone, kill the person who left first, etc.). Self-reporting is totally valid here.
 - If you somehow are left at 6 (with two of you alive), find one person each and time the kills with the kill cooldown reset.
 
+How settings affect the game
+-
+- Confirm ejects should get turned off as people get more experienced with the game. With confirm ejects on, you can't as an impostor really get away if someone accuses you of killing someone or venting.
+- Visual tasks should also get turned off as well when people get more experience because it being on makes it too easy to clear people as not impostors.
+- Hiding the taskbar/making it update during meetings makes it easier for impostors to fake tasks. It is in my opinion something that should be done because it helps newbie impostors fake tasks.
+
 Q&A
 -
 
 **Q: How do I fake doing a task as an impostor?**
 
-A: This takes a bit of experience, but in general the way you do it is that you stand at a station with a fakeable task until the global completion progress bar moves while someone is watching you do it. Careful to not move too early or too late (depending on the task). Don't try to fake doing a very short task (such as pressing a button) or visual tasks (such as doing asteroids)
+A: This takes a bit of experience, but in general the way you do it is that you stand at a station with a fakeable task until the global completion progress bar moves while someone is watching you do it. Careful to not move too early or too late (depending on the task). Don't try to fake doing a very short task (such as pressing a button) or visual tasks (such as doing asteroids). With the taskbar off/update on meeting, make sure to stand still for long enough to make it plausible.
 
 Suggested additional rules
 -
