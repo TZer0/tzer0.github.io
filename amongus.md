@@ -35,6 +35,10 @@ As an impostor
 - For the final showdown in a 3 v 1, you have effectively two strategies. If everyone is still scattering, try to kill people off in each their own corner of the map, if you're going together then you must cause enough confusion that you are alone with three people for even a moment, stab one and blame it on the other person. If you can, kill the most trustworthy person and leave the person who has been the most suspicious recently and throughout the game alive (if two people leave you alone, kill the person who left first, etc.). Self-reporting is totally valid here.
 - If you somehow are left at 6 (with two of you alive), find one person each and time the kills with the kill cooldown reset.
 
+Other tips
+-
+- Use the ingame chat if you're dead if you still want to listen in on the conversations of the living over voice chat.
+
 How settings affect the game
 -
 - Confirm ejects should get turned off as people get more experienced with the game. With confirm ejects on, you can't as an impostor really get away if someone accuses you of killing someone or venting.
