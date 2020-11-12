@@ -34,9 +34,23 @@ Useful bots
 - [Roleypoly](https://roleypoly.com/) - Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
 
 
-Tip for Carl Bot react roles
+Tip for adding Carl Bot react roles to an existing react group
 -
 This assumes you've already set up reaction roles using `!rr make`.
+
+* Create the role as you usually would
+* Get the ID of the message you want to add the react role to
+* Run the following commands:
+```
+!rr add MESSAGEID :emojiname: ROLENAME
+!rr edit MESSAGEID CATEGORYNAME | {roles}
+```
+
+Example:
+```
+!rr add 730747295406096384 :microphone2: Voice Chat Anyone?
+!rr edit 730747295406096384 Pingable Roles | {roles}
+```
 
 Horrible things about Discord
 -
