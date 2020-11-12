@@ -14,7 +14,7 @@ Securing your server with an airlock (people have to ask moderators to be let in
 General warnings/notes regarding Discord
 -
 * As a mod/admin/owner, you want developer mode on at all times (user settings -> appearance).
-* Always put roles for administrators and moderators on the top.
+* Always put roles for administrators and moderators on the top in bigger servers.
 * Do not create a role with any potentially destructive permissions (such as "Administrator, "Ban Members") low in the hierarchy of roles.
 * Anyone with "Administrator", "Manage Server", "Manage Channels" or "Manage Roles" can seriously mess things up for you, but it will be noted in the audit log who did it.
 * Make sure to tag adult content channels (and please call it adult content, not NSFW, as it frames certain occupations as not work) using the NSFW channel toggle in the settings for the given channel.
