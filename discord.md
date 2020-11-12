@@ -33,6 +33,11 @@ Useful bots
 - [Rythm](https://rythmbot.co/) + [Groovy](https://groovy.bot/) - two music bots that use different prefixes. You might want one or both.
 - [Roleypoly](https://roleypoly.com/) - Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
 
+
+Tip for Carl Bot react roles
+-
+This assumes you've already set up reaction roles using `!rr make`.
+
 Horrible things about Discord
 -
 1. Channel permissions are OR, not AND or TOP. This causes a lot of headaches and you can't effectively have an accept-gate + channel hiding using roles.
