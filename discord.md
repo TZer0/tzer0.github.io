@@ -26,6 +26,13 @@ General warnings/notes regarding Discord
 * Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode in user settings -> appearance).
 
 
+General notes about interactions in digital spaces
+-
+
+* If you have set up the airlock-system mentioned above, be vary of people who ping the moderator-tag to be let in. If someone does ping it and you do let them in, make sure to delete their message afterwards so other don't replicate their behaviour.
+* Writing down some rules is a must when the server hits anything beyond 20 users, preferably as earlier. If you start creating rules after an incident, the rules will feel as a permanent reminder for the offender and will lead to more negative tension. Rules are in my opinion more about shaping the environment than using the banhammer to enforce them.
+* Make sure to have a suggestions-channel to avoid mods having to handle suggestions in DMs.
+
 Useful bots
 -
 - [Carl Bot](https://carl.gg/) - Has custom commands and a way to set up react roles.
