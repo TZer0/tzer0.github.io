@@ -27,8 +27,7 @@ General warnings/notes regarding Discord
 
 
 Useful bots
-Bots
-- Carl Bot
+-
 - [Carl Bot](https://carl.gg/) - Has custom commands and a way to set up react roles.
 - [MEE6](https://mee6.xyz) - Custom commands, has feature to post Youtube-feeds, some role options. Starting to get premiumfied (more and more restricted features for non-paying users)
 - [Rythm](https://rythmbot.co/) + [Groovy](https://groovy.bot/) - two music bots that use different prefixes. You might want one or both.
