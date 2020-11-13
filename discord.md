@@ -1,7 +1,11 @@
 # Discord-stuff
 
 
-## Securing your server with an airlock (people have to ask moderators to be let in)
+## Securing your server with an airlock
+
+This system makes it so that users have to say that they accept the rules before they're let in by a moderator. Useful when screening for potential trouble-makers.
+
+I might soon make a bot I've made public. It allows for faster handling of people in the welcome room.
 
 1. Create a trusted role, from now on referred to as "@member".
 2. Create any number of categories for your channels. Select that you're creating a private category, find @member in the list, click on the toggle next to it and then create category.
