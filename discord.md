@@ -14,7 +14,6 @@
 ### Notes regarding experiences with this system
 
 * Be vary of people who ping the moderator-role to be let in, usually this is because they're impatient and want to start trouble. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
-* Do not give bots @member. Instead create a separate role ("@bots") and channel that @member, and bots can see.
 
 ## General notes regarding Discord
 
@@ -26,6 +25,7 @@
 * Do not assign pronoun roles etc. manually. Make a bot do that job.
 * Do not give bots permissions they shouldn't have. Dyno and MEE6 are notorious for asking for all the permissions, give them only the minimum they need and modify them as you see fit later.
 * When creating a new non-functional role (pingable things), make sure to clear perms.
+* For privacy, restrict what channels bots can see. Give them the minimum needed access.
 * Create a text channel for linking/chatting next to voice chats.
 * Remember to turn off @everyone before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
 * Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode).
