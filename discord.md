@@ -11,7 +11,7 @@ Securing your server with an airlock (people have to ask moderators to be let in
 6. Grant @moderator the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
 7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @moderator to see it.
 
-General warnings/notes regarding Discord
+General notes regarding Discord
 -
 * As a mod/admin/owner, you want developer mode on at all times (user settings -> appearance).
 * Always put roles for administrators and moderators on the top in bigger servers.
