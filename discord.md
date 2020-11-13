@@ -1,8 +1,8 @@
-Discord-stuff
-=
+# Discord-stuff
 
-Securing your server with an airlock (people have to ask moderators to be let in)
--
+
+## Securing your server with an airlock (people have to ask moderators to be let in)
+
 1. Create a trusted role, from now on referred to as "@member".
 2. Create any number of categories for your channels. Select that you're creating a private category, find @member in the list, click on the toggle next to it and then create category.
 3. Create whatever new channels you need in the new categories.
@@ -11,8 +11,13 @@ Securing your server with an airlock (people have to ask moderators to be let in
 6. Grant @moderator the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
 7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @moderator to see it.
 
-General notes regarding Discord
--
+### Notes regarding experiences with this system
+
+* Be vary of people who ping the moderator-role to be let in, usually this is because they're impatient and want to start trouble. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
+* Do not give bots @member. Instead create a separate role ("@bots") and channel that @member, and bots can see.
+
+## General notes regarding Discord
+
 * As a mod/admin/owner, you want developer mode on at all times (user settings -> appearance).
 * Always enable "Display role members separately from online members" for administrators and moderators in bigger servers.
 * Do not create a role with any potentially destructive permissions (such as "Administrator, "Ban Members") low in the hierarchy of roles.
@@ -20,7 +25,6 @@ General notes regarding Discord
 * Make sure to tag adult content channels (and please call it adult content, not NSFW, as it frames certain occupations as not work) using the NSFW channel toggle in the settings for the given channel.
 * Do not assign pronoun roles etc. manually. Make a bot do that job.
 * Do not give bots permissions they shouldn't have. Dyno and MEE6 are notorious for asking for all the permissions, give them only the minimum they need and modify them as you see fit later.
-* Do not give bots @member. Instead create a separate role ("@bots") and channel that @member, and bots can see.
 * When creating a new non-functional role (pingable things), make sure to clear perms.
 * Create a text channel for linking/chatting next to voice chats.
 * Remember to turn off @everyone before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
@@ -29,23 +33,21 @@ General notes regarding Discord
 * If you'd like to mention someone that isn't in the channel/in DMs, copy their ID and write `<@ID>`.
 
 
-General notes about interactions in digital spaces
--
+## General notes about interactions in digital spaces
 
-* If you have set up the airlock-system mentioned above, be vary of people who ping the moderator-role to be let in. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
 * Writing down some rules is a must when the server hits anything beyond 20 users, preferably even earlier. If you start creating rules after an incident, the rules will feel as a permanent reminder for the offender and will lead to more negative tension. Rules are in my opinion more about shaping the environment than using the banhammer to enforce them.
 * Make sure to have a suggestions-channel to avoid mods having to handle suggestions in DMs.
 
-Useful bots
--
+## Useful bots
+
 - [Carl Bot](https://carl.gg/) - Has custom commands and a way to set up react roles. The react roles are a bit fiddly to deal with for mods, but are a great solution for the users.
 - [MEE6](https://mee6.xyz) - Custom commands, has feature to post Youtube-feeds, some role options. Starting to get premiumfied (more and more restricted features for non-paying users)
 - [Rythm](https://rythmbot.co/) + [Groovy](https://groovy.bot/) - two music bots that use different prefixes. You might want one or both.
 - [Roleypoly](https://roleypoly.com/) - Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
 
 
-Tip for adding Carl Bot react roles to an existing react group
--
+## Tip for adding Carl Bot react roles to an existing react group
+
 This assumes you've already set up reaction roles using `!rr make`.
 
 * Create the role as you usually would
@@ -65,8 +67,8 @@ This assumes you've already set up reaction roles using `!rr make`.
 !rr edit 730747295406096384 Pingable Roles | {roles}
 ```
 
-Horrible things about Discord
--
+## Horrible things about Discord
+
 1. Channel permissions are OR, not AND or TOP. This causes a lot of headaches and you can't effectively have an accept-gate + channel hiding using roles.
 2. No rule-board where all mods can edit the rules.
 3. No metadata for profiles so you can't just set your pronouns globally in an easy way.
