@@ -16,7 +16,7 @@ General notes regarding Discord
 * As a mod/admin/owner, you want developer mode on at all times (user settings -> appearance).
 * Always enable "Display role members separately from online members" for administrators and moderators in bigger servers.
 * Do not create a role with any potentially destructive permissions (such as "Administrator, "Ban Members") low in the hierarchy of roles.
-* Anyone with "Administrator", "Manage Server", "Manage Channels" or "Manage Roles" can seriously mess things up for you, but it will be noted in the audit log who did it.
+* Anyone with "Administrator", "Manage Server", "Manage Channels" or "Manage Roles" can seriously mess up the server, but it will be noted in the audit log who did it.
 * Make sure to tag adult content channels (and please call it adult content, not NSFW, as it frames certain occupations as not work) using the NSFW channel toggle in the settings for the given channel.
 * Do not assign pronoun roles etc. manually. Make a bot do that job.
 * Do not give bots permissions they shouldn't have. Dyno and MEE6 are notorious for asking for all the permissions, give them only the minimum they need and modify them as you see fit later.
