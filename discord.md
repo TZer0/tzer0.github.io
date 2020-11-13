@@ -1,6 +1,6 @@
 # Discord-stuff
 
-These are instructions + tips and tricks I've learned from years of moderating online spaces with a few thousand users. Some of it specific to Discord, but a lot of it can be generalised to other platforms too.
+These are instructions + tips and tricks I've learned from years of moderating online spaces with a few thousand users. Some of it specific to Discord, but a lot of these tips will probably apply to other platforms.
 
 ## General notes regarding Discord
 
