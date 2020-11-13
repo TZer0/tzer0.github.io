@@ -1,23 +1,6 @@
 # Discord-stuff
 
-
-## Securing your server with an airlock
-
-This system makes it so that users have to say that they accept the rules before they're let in by a moderator. Useful when screening for potential trouble-makers.
-
-I might soon make a bot I've made public. It allows for faster handling of people in the welcome room.
-
-1. Create a trusted role, from now on referred to as "@member".
-2. Create any number of categories for your channels. Select that you're creating a private category, find @member in the list, click on the toggle next to it and then create category.
-3. Create whatever new channels you need in the new categories.
-4. If you have an existing channels, drag them into the new categories. If you've set special permissions on any of your old channels, right-click on them, edit, go to the permissions-tab, click the "Sync Now"-button.
-5. Create a role for moderators, from now on referred to as "@moderator".
-6. Grant @moderator the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
-7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @moderator to see it.
-
-### Notes regarding experiences with this system
-
-* Be vary of people who ping the moderator-role to be let in, usually this is because they're impatient and want to start trouble. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
+These are instructions + tips and tricks I've learned from years of moderating online spaces with a few thousand users. Some of it specific to Discord, but a lot of it can be generalised to other platforms too.
 
 ## General notes regarding Discord
 
@@ -41,6 +24,24 @@ I might soon make a bot I've made public. It allows for faster handling of peopl
 
 * Writing down some rules is a must when the server hits anything beyond 20 users, preferably even earlier. If you start creating rules after an incident, the rules will feel as a permanent reminder for the offender and will lead to more negative tension. Rules are in my opinion more about shaping the environment than using the banhammer to enforce them.
 * Make sure to have a suggestions-channel to avoid mods having to handle suggestions in DMs.
+
+## Securing your server with an airlock
+
+This system makes it so that users have to say that they accept the rules before they're let in by a moderator. Useful when screening for potential trouble-makers.
+
+I might soon make a bot I've made public. It allows for faster handling of people in the welcome room.
+
+1. Create a trusted role, from now on referred to as "@member".
+2. Create any number of categories for your channels. Select that you're creating a private category, find @member in the list, click on the toggle next to it and then create category.
+3. Create whatever new channels you need in the new categories.
+4. If you have an existing channels, drag them into the new categories. If you've set special permissions on any of your old channels, right-click on them, edit, go to the permissions-tab, click the "Sync Now"-button.
+5. Create a role for moderators, from now on referred to as "@moderator".
+6. Grant @moderator the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
+7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @moderator to see it.
+
+### Notes regarding experiences with this system
+
+* Be vary of people who ping the moderator-role to be let in, usually this is because they're impatient and want to start trouble. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
 
 ## Useful bots
 
