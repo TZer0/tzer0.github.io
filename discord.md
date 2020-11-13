@@ -41,7 +41,7 @@ I might soon make a bot I've made public. It allows for faster handling of peopl
 
 ### Notes regarding experiences with this system
 
-* Be vary of people who ping the moderator-role to be let in, usually this is because they're impatient and want to start trouble. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
+* Be vary of people who ping the moderator-role to be let in, often this is because they're impatient and want to start trouble. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
 
 ## Useful bots
 
