@@ -11,7 +11,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * Make sure to tag adult content channels (and please call it adult content, not NSFW, as it frames certain occupations as not work) using the NSFW channel toggle in the settings for the given channel.
 * Do not assign pronoun roles etc. manually. Make a bot do that job.
 * Do not give bots permissions they shouldn't have. Dyno and MEE6 are notorious for asking for all the permissions, give them only the minimum they need and modify them as you see fit later.
-* When creating a new non-functional role (such as pingable game roles), make sure to clear perms.
+* When creating a new non-functional role (such as pingable game roles), make sure to clear permissions.
 * For privacy, restrict what channels bots can see. Give them the minimum needed access.
 * Create a text channel for linking/chatting next to voice chats.
 * Remember to turn off @everyone before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
@@ -24,6 +24,16 @@ These are instructions + tips and tricks I've learned from years of moderating o
 
 * Writing down some rules is a must when the server hits anything beyond 20 users, preferably even earlier. If you start creating rules after an incident, the rules will feel as a permanent reminder for the offender and will lead to more negative tension. Rules are in my opinion more about shaping the environment than using the banhammer to enforce them.
 * Make sure to have a suggestions-channel to avoid mods having to handle suggestions in DMs.
+
+
+## Making sure that users do not mute @everyone/@here mentions
+
+The general tip is to not make your server noisy in this regard.
+
+* First of all: do not let regular users ping. People will make mistakes and it'll be grating.
+* Do not ping for trivial things such as simple opinion-checking or that you're drunk.
+* Rather than pinging @everyone/@here for an event, create roles that can be pinged instead and let people pick those if they wish to be pinged. Tip: as an admin you can ping roles that are otherwise not pingable.
+* Know the difference between @everyone and @here. @everyone will ping everyone in the channel. @here will only ping people who are in the channel, online, and not idle.
 
 ## Securing your server with an airlock
 
