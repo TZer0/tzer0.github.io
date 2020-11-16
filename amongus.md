@@ -16,7 +16,7 @@ Key bindings:
 
 ## As a crewmate
 
-- Unless it is 100% certain who killed, do not vote when there are 7 people left (and two impostors). This leaves you at 6, which means that the impostors can sabotage a couple of seconds before the meeting cooldown ends and then mash the kill-buttons for a double-kill. If three people vouch, it still might be worth the risk. Voting at four with one impostor is also dangerous and will end the game once people know how to play.
+- Unless it is 100% certain who killed, do not vote when there are seven people left (and two impostors). This leaves you at 6, which means that the impostors can sabotage a couple of seconds before the meeting cooldown ends and then mash the kill-buttons for a double-kill. If three people vouch, it still might be worth the risk. Voting at four with one impostor is also dangerous and will end the game once people know how to play.
 - if you are at 5 or 6 people left with two impostors, you have to vote. Anything else leaves you open to a kill/double-kill victory.
 - Never lie.
 - Make sure to vote (including skip vote), else a sneaky impostor might vote just before the timer expires.
@@ -51,6 +51,11 @@ Key bindings:
 **Q: How do I fake doing a task as an impostor?**
 
 A: This takes a bit of experience, but in general the way you do it is that you stand at a station with a fakeable task until the global completion progress bar moves while someone is watching you do it. Careful to not move too early or too late (depending on the task). Don't try to fake doing a very short task (such as pressing a button) or visual tasks (such as doing asteroids). With the taskbar off/update on meeting, make sure to stand still for long enough to make it plausible.
+
+
+**Q: Wait, if I saw someone kill and there's seven people left, why should we not vote the impostor out?**
+
+A: It comes down to how well you can persuade your fellow crewmates. The risks are rather high - if you fail to convince your fellow crewmates the game is effectively over and it is your word against the impostor's. It is therefore better to hard accuse someone and still skip if only you saw the kill happen.
 
 ## Suggested additional rules
 
