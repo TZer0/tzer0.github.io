@@ -29,7 +29,6 @@ These are instructions + tips and tricks I've learned from years of moderating o
 
 This system makes it so that users have to say that they accept the rules before they're let in by a moderator. Useful when screening for potential trouble-makers.
 
-I might soon make a bot I've made public. It allows for faster handling of people in the welcome room.
 
 1. Create a trusted role, from now on referred to as "@member".
 2. Create any number of categories for your channels. Select that you're creating a private category, find @member in the list, click on the toggle next to it and then create category.
@@ -42,6 +41,18 @@ I might soon make a bot I've made public. It allows for faster handling of peopl
 ### Notes regarding experiences with this system
 
 * Be vary of people who ping the moderator-role to be let in, often this is because they're impatient and want to start trouble. If someone does ping it and you do let them in, make sure to delete their message afterwards so other people don't replicate their behaviour.
+
+
+### AcceptBot
+I have made a bot called AcceptBot. Click [here](https://discord.com/api/oauth2/authorize?client_id=701052118903029760&permissions=270592000&redirect_uri=https%3A%2F%2Funderhound.eu&scope=bot) to add it.
+
+It allows for faster handling of users coming through the airlock.
+
+The way it works is that people must mention one of the trigger words such as "accept", "read", or "rules" and if they do, you can have the bot scan their message and let them in.
+
+Check `!help` once you've added the bot. The bot by default requests Manage Messages, but it only really needs the permission in the welcome channel. Change this at your earliest convenience.
+
+Quick gif showing how it works coming soon.
 
 ## Useful bots
 
