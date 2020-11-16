@@ -1,4 +1,4 @@
-# Discord-stuff
+# Discord: Tips and Tricks
 
 These are instructions + tips and tricks I've learned from years of moderating online spaces with a few thousand users. Some of it specific to Discord, but a lot of these tips will probably apply to other platforms.
 
