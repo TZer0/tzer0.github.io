@@ -52,6 +52,8 @@ The way it works is that people must mention one of the trigger words such as "a
 
 Check `!help` once you've added the bot. The bot by default requests Manage Messages, but it only really needs the permission in the welcome channel. Change this at your earliest convenience.
 
+It has cut down technical moderation tasks by an incredible amount, especially when three or more people show up at the same time.
+
 Quick gif showing how it works coming soon.
 
 ## Useful bots
