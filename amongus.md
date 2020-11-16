@@ -63,5 +63,6 @@ A: It comes down to how well you can persuade your fellow crewmates. The risks a
 
 ## We're waiting for someone to join, what should we do?
 
-Here's a list of easy to play online games you can play together:
-- [skribbl.io](https://skribbl.io/)
+Here's a list of easy to play online games/activities you can play/do together:
+- [skribbl.io](https://skribbl.io/) - One person draws something, others guess what that thing is.
+- [Watch2Gether](https://w2g.tv/) - Watch videos in sync
