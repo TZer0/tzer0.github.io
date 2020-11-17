@@ -54,7 +54,7 @@ This system makes it so that users have to say that they accept the rules before
 
 
 ### AcceptBot
-I have made a bot called AcceptBot. Click [here](https://discord.com/api/oauth2/authorize?client_id=701052118903029760&permissions=268560448&redirect_uri=https%3A%2F%2Funderhound.eu&scope=bot) to add it.
+I have made a bot called AcceptBot ((source code)[https://bitbucket.org/TZer0/acceptbot/src]). Click [here](https://discord.com/api/oauth2/authorize?client_id=701052118903029760&permissions=268560448&redirect_uri=https%3A%2F%2Funderhound.eu&scope=bot) to add it.
 
 It allows for faster handling of users coming through the airlock.
 
