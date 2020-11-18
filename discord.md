@@ -18,6 +18,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode).
 * If you want a bigger version of someone's pfp, try [discord.id](https://discord.id/) and paste in the user's unique ID (dev mode, copy ID).
 * If you'd like to mention someone that isn't in the channel/in DMs, copy their ID and write `<@ID>`.
+* When creating a new voice chat, remember to turn up the bitrate.
 
 
 ## General notes about interactions in digital spaces
