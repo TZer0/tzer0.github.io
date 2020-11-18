@@ -64,7 +64,7 @@ Check `!help` once you've added the bot. The bot by default requests Manage Mess
 
 It has cut down technical moderation tasks by an incredible amount, especially when three or more people show up at the same time.
 
-Quick gif showing how it works coming soon.
+A very quick demo of setting up AcceptBot and using it can be found [here](https://www.youtube.com/watch?v=S6FX56gEu8k)
 
 ## Useful bots
 
