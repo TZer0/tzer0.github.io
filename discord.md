@@ -56,6 +56,8 @@ This system makes it so that users have to say that they accept the rules before
 ### AcceptBot
 I have made a bot called AcceptBot ([source code](https://bitbucket.org/TZer0/acceptbot/src)). Click [here](https://discord.com/api/oauth2/authorize?client_id=701052118903029760&permissions=268560448&redirect_uri=https%3A%2F%2Funderhound.eu&scope=bot) to add it.
 
+A very quick demo of setting up AcceptBot and using it can be found [here](https://www.youtube.com/watch?v=S6FX56gEu8k).
+
 It allows for faster handling of users coming through the airlock.
 
 The way it works is that people must mention one of the trigger words such as "accept", "read", or "rules" and if they do, you can have the bot scan their message and let them in.
@@ -63,8 +65,6 @@ The way it works is that people must mention one of the trigger words such as "a
 Check `!help` once you've added the bot. The bot by default requests Manage Messages, but it only really needs the permission in the welcome channel. Change this at your earliest convenience.
 
 It has cut down technical moderation tasks by an incredible amount, especially when three or more people show up at the same time.
-
-A very quick demo of setting up AcceptBot and using it can be found [here](https://www.youtube.com/watch?v=S6FX56gEu8k)
 
 ## Useful bots
 
