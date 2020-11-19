@@ -63,7 +63,7 @@ A: This takes a bit of experience, but in general the way you do it is that you 
 
 **Q: Wait, if I saw someone kill and there's seven people left, why should we not vote the impostor out?**
 
-A: It comes down to how well you can persuade your fellow crewmates. The risks are rather high - if you fail to convince your fellow crewmates the game is effectively over and it is your word against the impostor's. It is therefore better to hard accuse someone and still skip if only you saw the kill happen.
+A: It comes down to how well you can persuade your fellow crewmates. The risks are rather high - if you fail to convince your fellow crewmates the game is effectively over and it is your word against the impostor's. It is therefore better to hard accuse someone and still skip if only you saw the kill happen. After all: the impostor has guaranteed one person on their side which means that they only need to convince two crewmates to vote you off.
 
 ## Suggested additional rules
 
