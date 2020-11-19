@@ -24,10 +24,12 @@ Key bindings:
 - Avoid piling on top of others on common tasks. Sneaky impostors might try to get a kill in the stack.
 - Generally assume that someone accusing someone else and saying definitive things such as "they vented" or "they killed X" was speaking the truth if they end up dead between meetings. Be careful following this advice outside of playing with people you know as strangers do weird things in pubs.
 - Are the impostors going for a double-kill against four crewmates to end the game during a sabotage? Mash R and you might catch them killing one person before the second person dies.
+- Think carefully when you want to confirm someone as innocent. Do it too early and the impostors will target you and them because the fewer confirmed innocent people are a meeting, the better it is for them.
 
 ## As an impostor
 
 - Don't stay quiet during meetings. Even if you literally saw no one or you have a sus story, tell people a story of where you were because it is more sus if you stay quiet.
+- You generally want to kill people who are confirmed innocent. The more people suspicion can fall on during a meeting, the better for you.
 - Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone does. Don't move in on them in spawn until at couple of people do.
 - If you somehow find yourself at 5 or 6 people alive, 2 impostors, wait a bit for the meeting timer to go down, cause a outage of a sort and go for a (double-)kill.
 - On maps like Polus, the layout can be exploited when there are 6 left. Sabotage reactor, go to left stabiliser. If others approach it segmented, kill one crewmate as close as possible to the reset button and get the other kill further away.
