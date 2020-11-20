@@ -120,3 +120,5 @@ This assumes you've already set up reaction roles using `!rr make`.
 15. New roles inherit from @everyone. This means that if you forgot to remove the ability to ping @everyone before you remove that permission from @everyone, you'll have to go through every role individually and do it for every single one of them.
 16. Granting someone read messages permissions in a channel doesn't update what they see. They'll have to restart the client to see what they're now allowed to see.
 
+#### Contributors
+- TZer0

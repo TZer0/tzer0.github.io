@@ -80,3 +80,6 @@ Here's a list of easy to play online games/activities you can play/do together:
 - [skribbl.io](https://skribbl.io/) - One person draws something, others guess what that thing is.
 - [Watch2Gether](https://w2g.tv/) - Watch videos in sync
 - [Spyfall](https://spyfall.adrianocola.com/) - Spies try to figure out what the location is. One player starts by asking another player a question - any kind. Full rules [here](https://world-of-board-games.com.sg/docs/Spyfall2.pdf). Bonus for being somewhat on theme with Among Us.
+
+#### Contributors
+- TZer0
