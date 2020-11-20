@@ -36,6 +36,11 @@ The general tip is to not make your server noisy in this regard.
 * Rather than pinging @everyone/@here for an event, create roles that can be pinged instead and let people pick those if they wish to be pinged. Tip: as an admin you can ping roles that are otherwise not pingable.
 * Know the difference between @everyone and @here. @everyone will ping everyone in the channel. @here will only ping people who are in the channel, online, and not idle.
 
+## Other Discord tips
+
+* A good push to talk button is numpad 5 while num lock is off. Interacts with very few programs/games. I've tried using F24 which exists as an assignable button in Razer's driver software, but while it doesn't interact with any programs that I've noticed, it also gets stuck on frequently.
+* PTT doesn't work when any program running as admin is in focus. This includes task manager. If you were holding down your PTT button while selecting a program running as admin, your PTT will remain active even if you let go of the button. Press it again after unfocusing the window to stop broadcasting.
+
 ## Securing your server with an airlock
 
 This system makes it so that users have to say that they accept the rules before they're let in by a moderator. Useful when screening for potential trouble-makers.
