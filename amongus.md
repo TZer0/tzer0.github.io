@@ -65,6 +65,11 @@ A: This takes a bit of experience, but in general the way you do it is that you 
 
 A: It comes down to how well you can persuade your fellow crewmates. The risks are rather high - if you fail to convince your fellow crewmates the game is effectively over and it is your word against the impostor's. It is therefore better to hard accuse someone and still skip if only you saw the kill happen. After all: the impostor has guaranteed one person on their side which means that they only need to convince two crewmates to vote you off.
 
+## What are my options in terms of playing this game?
+
+- [Steam](https://store.steampowered.com/app/945360/Among_Us/) - Costs roughly 3 EUR, officially it works on Windows, but Proton seems to run this flawlessly on Linux as well. You can also check [isthereanydeal](https://isthereanydeal.com/game/amongus/info/) for cheaper deals out there.
+- [Bluestacks](https://www.bluestacks.com/) - Free, android emulator. Works on Windows and Mac.
+
 ## Suggested additional rules
 
 - On Polus it should not be allowed to ask which keyhole you had in the key common task. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it.
