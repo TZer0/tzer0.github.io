@@ -25,6 +25,6 @@ You'll see why I call this relatively cheap in the next section.
 
 ## Expensive
 
-## Synths
+### Synths
 
 - [Arturia V Collection](https://www.arturia.com/products/analog-classics/v-collection/overview#en) - Digital recreations of many classic synths in one big package.
