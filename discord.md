@@ -31,6 +31,8 @@ These are instructions + tips and tricks I've learned from years of moderating o
 
 The general tip is to not make your server noisy in this regard.
 
+* The more you ping, the less attention people will pay.
+* Only ping if there are actualy important things happening. Don't ping for someone's birthday or similarly personal things. Do ping for fundraisers, complete server overhauls, and absolutely critical information that people need right here and now. If you're creating a channel, that's worth being in announcements, but not a ping.
 * First of all: do not let regular users ping. People will make mistakes and it'll be grating. It also reduces easy spam opportunities.
 * Do not ping for trivial things such as simple opinion-checking or that you're drunk.
 * Rather than pinging @everyone/@here for an event, create roles that can be pinged instead and let people pick those if they wish to be pinged. Tip: as an admin you can ping roles that are otherwise not pingable.
