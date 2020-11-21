@@ -20,6 +20,10 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * If you'd like to mention someone that isn't in the channel/in DMs, copy their ID and write `<@ID>`.
 * When creating a new voice chat, remember to turn up the bitrate.
 
+### Roles you probably want in most servers
+
+* Voice Chat Anyone? - pingable role for when people want to talk
+* Pronoun roles - makes the space a bit more welcoming in general to trans and gender non-conforming folks.
 
 ## General notes about interactions in digital spaces
 
@@ -29,19 +33,31 @@ These are instructions + tips and tricks I've learned from years of moderating o
 
 ## Making sure that users do not mute @everyone/@here mentions
 
-The general tip is to not make your server noisy in this regard.
+The general tip is to not make your server noisy in this regard. Generally, if you're pinging once per day you might already be doing it too much.
 
-* The more you ping, the less attention people will pay.
-* Only ping if there are actualy important things happening. Don't ping for someone's birthday or similarly personal things. Do ping for fundraisers, complete server overhauls, and absolutely critical information that people need right here and now. If you're creating a channel, that's worth being in announcements, but not a ping.
 * First of all: do not let regular users ping. People will make mistakes and it'll be grating. It also reduces easy spam opportunities.
-* Do not ping for trivial things such as simple opinion-checking or that you're drunk.
+* The more you ping, the less attention people will pay.
 * Rather than pinging @everyone/@here for an event, create roles that can be pinged instead and let people pick those if they wish to be pinged. Tip: as an admin you can ping roles that are otherwise not pingable.
 * Know the difference between @everyone and @here. @everyone will ping everyone in the channel. @here will only ping people who are in the channel, online, and not idle.
+
+### Things for which you might ping @everyone/@here
+
+* Critical fundraisers for members/groups - especially if time is of the essence.
+* Important information that all the users need to know about right now.
+* Complete server reworks.
+
+### Things for which you shouldn't ping @everyone/@here
+
+* In any major server: birthdays.
+* That you're high/drunk.
+* That you want to hang out in voice chat.
+* That you made a channel, exception: it is on a topic that keeps derailing other chats/is upsetting to certain members of the community and it needs to be contained now.
 
 ## Other Discord tips
 
 * A good push to talk button is numpad 5 while num lock is off. Interacts with very few programs/games. I've tried using F24 which exists as an assignable button in Razer's driver software, but while it doesn't interact with any programs that I've noticed, it also gets stuck on frequently.
 * PTT doesn't work when any program running as admin is in focus. This includes task manager. If you were holding down your PTT button while selecting a program running as admin, your PTT will remain active even if you let go of the button. Press it again after unfocusing the window to stop broadcasting.
+* Do not ever edit out a ping, be it @everyone, @role, or @user. Do not edit in one either. The former leaves a ghost ping where people can see they got pinged, but won't find the message that did it, the latter doesn't ping the user/role in question.
 
 ## Securing your server with an airlock
 
