@@ -32,7 +32,7 @@ Key bindings:
 ## As an impostor
 
 ### Basic
-- Don't stay quiet during meetings. Even if you literally saw no one or you have a suspicious story, tell people a story of where you were because it is more sus if you stay quiet.
+- Don't stay quiet during meetings. Even if you literally saw no one or you have a suspicious story, tell people a story of where you were because it is more suspicious if you stay quiet.
 - If you somehow find yourself at 5 or 6 people alive, 2 impostors, wait a bit for the meeting timer to go down, cause a outage of a sort and go for a (double-)kill.
 - On maps like Polus, the layout can be exploited when there are 6 left. Sabotage reactor, go to left stabiliser. If others approach it segmented, kill one crewmate as close as possible to the reset button and get the other kill further away.
 - Careful causing crises if you're a dead impostor. Maybe mess with doors to cause suspicion, but keep it to that. You don't know what your fellow impostor is planning.
