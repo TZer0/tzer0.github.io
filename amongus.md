@@ -41,7 +41,7 @@ Key bindings:
 
 ### Advanced
 - You generally want to kill people who are confirmed innocent. The more people suspicion can fall on during a meeting, the better for you.
-- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone does. Don't move in on them in spawn until at couple of people do.
+- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same task. Don't move in on them in spawn until at couple of people do.
 - For the final showdown in a 3 v 1, you have effectively two strategies. If everyone is still scattering, try to kill people off in each their own corner of the map, if you're going together then you must cause enough confusion that you are alone with three people for even a moment, stab one and blame it on the other person. If you can, kill the most trustworthy person and leave the person who has been the most suspicious recently and throughout the game alive (if two people leave you alone, kill the person who left first, etc.). Self-reporting is totally valid here.
 
 ## Other tips
@@ -69,7 +69,7 @@ A: It comes down to how well you can persuade your fellow crewmates. The risks a
 
 ## Suggested additional rules
 
-- On Polus it should not be allowed to ask which keyhole you had in the key common task. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it.
+- On Polus it should not be allowed to ask which keyhole you had in the key common task. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it. 
 
 ## What are my options in terms of playing this game?
 
