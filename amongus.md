@@ -47,6 +47,7 @@ Key bindings:
 ## Other tips
 
 - Use the ingame chat if you're dead if you still want to listen in on the conversations of the living over voice chat.
+- You probably want to have keyboard+mouse controls enabled.
 
 ## How settings affect the game
 
