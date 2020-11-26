@@ -5,7 +5,7 @@ This is by no means a guarantee and I reserve my right to remove this at any poi
 
 [Among Us: Tips and Tricks](/amongus.html)
 
-[Discord: Tips and Tricks](/discord.html)
+[Admin's/Mod's Guide to Discord](/discord.html)
 
 [Music software I recommend](/musicsoft.html)
 

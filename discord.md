@@ -1,4 +1,4 @@
-# Discord: Tips and Tricks
+# Admin's/Mod's Guide to Discord
 
 These are instructions + tips and tricks I've learned from years of moderating online spaces with a few thousand users. Some of it specific to Discord, but a lot of these tips will probably apply to other platforms.
 
