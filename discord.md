@@ -53,7 +53,7 @@ The general tip is to not make your server noisy in this regard. Generally, if y
 * That you want to hang out in voice chat.
 * That you made a channel, exception: it is on a topic that keeps derailing other chats/is upsetting to certain members of the community and it needs to be contained now.
 
-## Other Discord tips
+## Other Discord tips (that you might want to mention in your server)
 
 * A good push to talk button is numpad 5 while num lock is off. Interacts with very few programs/games. I've tried using F24 which exists as an assignable button in Razer's driver software, but while it doesn't interact with any programs that I've noticed, it also gets stuck on frequently.
 * PTT doesn't work when any program running as admin is in focus. This includes task manager. If you were holding down your PTT button while selecting a program running as admin, your PTT will remain active even if you let go of the button. Press it again after unfocusing the window to stop broadcasting.
