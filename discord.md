@@ -14,7 +14,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * When creating a new non-functional role (such as pingable game roles), make sure to clear permissions.
 * For privacy, restrict what channels bots can see. Give them the minimum needed access.
 * Create a text channel for linking/chatting next to voice chats.
-* Remember to turn off @everyone before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
+* Remember to turn off `@everyone` before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
 * Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode).
 * If you want a bigger version of someone's pfp, try [discord.id](https://discord.id/) and paste in the user's unique ID (dev mode, copy ID).
 * If you'd like to mention someone that isn't in the channel/in DMs, copy their ID and write `<@ID>`.
@@ -31,22 +31,22 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * Make sure to have a suggestions-channel to avoid mods having to handle suggestions in DMs.
 
 
-## Making sure that users do not mute @everyone/@here mentions
+## Making sure that users do not mute `@everyone`/`@here` mentions
 
 The general tip is to not make your server noisy in this regard. Generally, if you're pinging once per day you might already be doing it too much.
 
 * First of all: do not let regular users ping. People will make mistakes and it'll be grating. It also reduces easy spam opportunities.
 * The more you ping, the less attention people will pay.
-* Rather than pinging @everyone/@here for an event, create roles that can be pinged instead and let people pick those if they wish to be pinged. Tip: as an admin you can ping roles that are otherwise not pingable.
-* Know the difference between @everyone and @here. @everyone will ping everyone in the channel. @here will only ping people who are in the channel, online, and not idle.
+* Rather than pinging `@everyone`/`@here` for an event, create roles that can be pinged instead and let people pick those if they wish to be pinged. Tip: as an admin you can ping roles that are otherwise not pingable.
+* Know the difference between `@everyone` and `@here`. `@everyone` will ping everyone in the channel. `@here` will only ping people who are in the channel, online, and not idle.
 
-### Things for which you might ping @everyone/@here
+### Things for which you might ping `@everyone`/`@here`
 
 * Critical fundraisers for members/groups - especially if time is of the essence.
 * Important information that all the users need to know about right now.
 * Complete server reworks.
 
-### Things for which you shouldn't ping @everyone/@here
+### Things for which you shouldn't ping `@everyone`/`@here`
 
 * In any major server: birthdays.
 * That you're high/drunk.
@@ -57,20 +57,20 @@ The general tip is to not make your server noisy in this regard. Generally, if y
 
 * A good push to talk button is numpad 5 while num lock is off. Interacts with very few programs/games. I've tried using F24 which exists as an assignable button in Razer's driver software, but while it doesn't interact with any programs that I've noticed, it also gets stuck on frequently.
 * PTT doesn't work when any program running as admin is in focus. This includes task manager. If you were holding down your PTT button while selecting a program running as admin, your PTT will remain active even if you let go of the button. Press it again after unfocusing the window to stop broadcasting.
-* Do not ever edit out a ping, be it @everyone, @role, or @user. Do not edit in one either. The former leaves a ghost ping where people can see they got pinged, but won't find the message that did it, the latter doesn't ping the user/role in question.
+* Do not ever edit out a ping, be it `@everyone`, `@role`, or `@user`. Do not edit in one either. The former leaves a ghost ping where people can see they got pinged, but won't find the message that did it, the latter doesn't ping the user/role in question.
 
 ## Securing your server with an airlock
 
 This system makes it so that users have to say that they accept the rules before they're let in by a moderator. Useful when screening for potential trouble-makers.
 
 
-1. Create a trusted role, from now on referred to as "@member".
-2. Create any number of categories for your channels. Select that you're creating a private category, find @member in the list, click on the toggle next to it and then create category.
+1. Create a trusted role, from now on referred to as `@member`.
+2. Create any number of categories for your channels. Select that you're creating a private category, find `@member` in the list, click on the toggle next to it and then create category.
 3. Create whatever new channels you need in the new categories.
 4. If you have an existing channels, drag them into the new categories. If you've set special permissions on any of your old channels, right-click on them, edit, go to the permissions-tab, click the "Sync Now"-button.
-5. Create a role for moderators, from now on referred to as "@moderator".
-6. Grant @moderator the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to @mention this role" and "Display role members separately from online members".
-7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow @member from seeing it to prevent easy spam-opportunities. Allow @moderator to see it.
+5. Create a role for moderators, from now on referred to as `@moderator`.
+6. Grant `@moderator` the permission to at least "Manage Roles", "Manage Messages", "View Audit Log", and also "Kick/Ban Users". Make sure to check the "Allow anyone to `@mention` this role" and "Display role members separately from online members".
+7. Create a separate non-private category for where people start out. Put a channel like "#say-hi" there. Disallow `@member` from seeing it to prevent easy spam-opportunities. Allow `@moderator` to see it.
 
 ### Notes regarding experiences with this system
 
@@ -135,7 +135,7 @@ This assumes you've already set up reaction roles using `!rr make`.
 12. A lot of things that ought to have been standard is something you need to do via a bot.
 13. No way to avoid having someone on the top of the authority-chain, having a properly democratic server is impossible.
 14. If you don't have admin (but have mod), you can't click the clear permissions button for a role even if you are able to turn off each of them individually.
-15. New roles inherit from @everyone. This means that if you forgot to remove the ability to ping @everyone before you remove that permission from @everyone, you'll have to go through every role individually and do it for every single one of them.
+15. New roles inherit from `@everyone`. This means that if you forgot to remove the ability to ping `@everyone` before you remove that permission from `@everyone`, you'll have to go through every role individually and do it for every single one of them.
 16. Granting someone read messages permissions in a channel doesn't update what they see. They'll have to restart the client to see what they're now allowed to see.
 
 #### Contributors
