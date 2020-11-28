@@ -93,6 +93,7 @@ It has cut down technical moderation tasks by an incredible amount, especially w
 ## Useful bots
 
 - [Carl Bot](https://carl.gg/) - Has custom commands and a way to set up react roles. The react roles are a bit fiddly to deal with for mods, but are a great solution for the users.
+- [YAGPDB.xyz](YAGPDB.xyz) - Same as carlbot, but has a UI for setting up react roles.
 - [MEE6](https://mee6.xyz) - Custom commands, has feature to post Youtube-feeds, some role options. Starting to get premiumfied (more and more restricted features for non-paying users)
 - [Rythm](https://rythmbot.co/) + [Groovy](https://groovy.bot/) - two music bots that use different prefixes. You might want one or both.
 - [Roleypoly](https://roleypoly.com/) - *Note: currently broken!* Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
