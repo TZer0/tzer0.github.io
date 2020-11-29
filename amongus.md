@@ -41,13 +41,14 @@ Key bindings:
 
 ### Advanced
 - You generally want to kill people who are confirmed innocent. The more people suspicion can fall on during a meeting, the better for you.
-- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same task. Don't move in on them in spawn until at couple of people do.
-- For the final showdown in a 3 v 1, you have effectively two strategies. If everyone is still scattering, try to kill people off in each their own corner of the map, if you're going together then you must cause enough confusion that you are alone with three people for even a moment, stab one and blame it on the other person. If you can, kill the most trustworthy person and leave the person who has been the most suspicious recently and throughout the game alive (if two people leave you alone, kill the person who left first, etc.). Self-reporting is totally valid here.
-
-## Other tips
-
+- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same tas
 - Use the ingame chat if you're dead if you still want to listen in on the conversations of the living over voice chat.
 - You probably want to have keyboard+mouse controls enabled.
+
+
+## Both impostors and crewmates
+
+- Learn the wiring orders found [here](https://among-us.fandom.com/wiki/Fix_Wiring). As an impostor always mention a plausible order. As a crewmate, try to bust impostors with impossible orders.
 
 ## How settings affect the game
 
