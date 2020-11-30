@@ -12,7 +12,7 @@ Key bindings:
 
 - Clear - you think someone didn't do a particular kill.
 - Hard clear - you think someone is not an impostor on account of them being with you an entire round when many kills occurred or through other mechanics.
-- Hard accuse - you are certain that someone is the impostor.
+- Hard accuse - you are certain that someone is an impostor.
 
 ## Maps
 
