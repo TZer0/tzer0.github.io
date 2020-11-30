@@ -25,7 +25,7 @@ Unfortunately, music software is in general rather pricey. I will therefore be s
 
 ## Other
 - [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/) - Creates a virtual speaker that outputs to a virtual mic. Useful for routing Renoise and other DAWs into voice chat.
-- [ASIO4ALL](http://www.asio4all.org/) - Don't have a good sound interface or can't afford one? Get this to make ASIO work on cheaper/on-board soundcards. has some limitations, but is better than regular Windows sound systems. This will cut down your input-to-output delay by a lot.
+- [ASIO4ALL](http://www.asio4all.org/) - Don't have a good sound interface or can't afford one? Get this to make ASIO work on cheaper/on-board soundcards. It has some limitations, but is better than regular Windows sound systems. This will cut down your input-to-output delay by a lot.
 
 ## Relatively Cheap
 You'll see why I call this relatively cheap in the next section.
