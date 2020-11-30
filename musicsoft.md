@@ -16,7 +16,7 @@ First of all, my DAW is [Renoise](https://www.renoise.com/). Costs 68 EUR/75 USD
 
 
 ## Other
-- [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/) - Creates a speaker that outputs to a mic. Useful for routing Renoise and other DAWs into voice chat.
+- [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/) - Creates a virtual speaker that outputs to a virtual mic. Useful for routing Renoise and other DAWs into voice chat.
 
 ## Relatively Cheap
 You'll see why I call this relatively cheap in the next section.
