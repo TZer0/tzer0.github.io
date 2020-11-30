@@ -7,7 +7,7 @@ First of all, my DAW is [Renoise](https://www.renoise.com/). Costs 68 EUR/75 USD
 ## Free
 
 ### Synths
-- [Synth1](https://www.kvraudio.com/product/synth1-by-daichi-laboratory-ichiro-toda) - Looks a bit ugly, but has a lot of functionality and is a fun little synth to muck about with, especially when new to making music.
+- [Synth1](https://daichilab.sakura.ne.jp/softsynth/index.html) - Looks a bit ugly, but has a lot of functionality and is a fun little synth to muck about with, especially when new to making music.
 - [The ODOsynths archive](https://theodosynthsarchive.wordpress.com/) - Collection of synths. Highly recommend 38911Bytes for making weird retro-sounding sounds.
 
 ### Effects
