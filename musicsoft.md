@@ -9,7 +9,6 @@ First of all, my DAW is [Renoise](https://www.renoise.com/). Costs 68 EUR/75 USD
 ### Synths
 - [Synth1](https://www.kvraudio.com/product/synth1-by-daichi-laboratory-ichiro-toda) - Looks a bit ugly, but has a lot of functionality and is a fun little synth to muck about with, especially when new to making music.
 - [The ODOsynths archive](https://theodosynthsarchive.wordpress.com/) - Collection of synths. Highly recommend 38911Bytes for making weird retro-sounding sounds.
-- 
 
 ### Effects
 - [Variety of Sound](https://varietyofsound.wordpress.com/) - Collection of sound effects. TesslaSE and epicVerb are in my opinion effects that easily could've been sold for a decent amount of money, but the maker has decided to make all of these effects free.
