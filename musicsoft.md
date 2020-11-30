@@ -12,6 +12,11 @@ First of all, my DAW is [Renoise](https://www.renoise.com/). Costs 68 EUR/75 USD
 
 ### Effects
 - [Variety of Sound](https://varietyofsound.wordpress.com/) - Collection of sound effects. TesslaSE and epicVerb are in my opinion effects that easily could've been sold for a decent amount of money, but the maker has decided to make all of these effects free.
+- [RoVee](https://www.g200kg.com/jp/software/rovee.html) - Voice morpher.
+
+
+## Other
+- [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/) - Creates a speaker that outputs to a mic. Useful for routing Renoise and other DAWs into voice chat.
 
 ## Relatively Cheap
 You'll see why I call this relatively cheap in the next section.
