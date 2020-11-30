@@ -8,6 +8,12 @@ Key bindings:
 * R - report
 * Q - (as impostor) kill
 
+## Terminology
+
+- Clear - you think someone didn't do a particular kill.
+- Hard clear - you think someone is not an impostor on account of them being with you an entire round when many kills occurred or through other mechanics.
+- Hard accuse - you are certain that someone is the impostor.
+
 ## Maps
 
 - [Skeld](https://www.reddit.com/r/AmongUs/comments/f6m9mx/skeld_map_guide/)
@@ -50,6 +56,14 @@ Key bindings:
 
 - Learn the wiring orders found [here](https://among-us.fandom.com/wiki/Fix_Wiring). As an impostor always mention a plausible order. As a crewmate, try to bust impostors with impossible orders.
 - Fire up a stopwatch/clock while playing on another monitor or on a phone. This can help you keep track of time while faking tasks, catching impostors who are faking tasks, and keep track of kill cooldown timers.
+
+## Situations
+
+### 3v1, two crewmembers hard cleared
+Crewmates should stick together as much as possible. If you're the hard cleared one, you need to see your hard clear partner get killed without the non-hardcleared crewmate lying dead in some corner. If you are not hard cleared and there's a split sabotage (oxygen, reactor), then it is your job to charge towards the one that the hard cleared duo isn't doing. The duo should go to the other part of the sabotage together if it isn't resolved in a reasonable amount of time.
+
+As an impostor it is your best bet to snag an in-the-dark ninja vent kill on the hard cleared duo to force a showdown between you and the non-hardcleared crewmate, or kill said crewmate first and then killed any part of the duo.
+
 
 ## How settings affect the game
 
