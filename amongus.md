@@ -56,6 +56,7 @@ Key bindings:
 - Learn the wiring orders found [here](https://among-us.fandom.com/wiki/Fix_Wiring). As an impostor always mention a plausible order. As a crewmate, try to bust impostors with impossible orders.
 - Fire up a stopwatch/clock while playing on another monitor or on a phone. This can help you keep track of time while faking tasks, catching impostors who are faking tasks, and keep track of kill cooldown timers.
 - Use the ingame chat if you're dead if you still want to listen in on the conversations of the living over voice chat.
+- If you're playing on a public server and someone asks you to tell them who the impostor is, always lie. The person asking might be talking over voice chat their friend. If you're an impostor: that just probably won you the game. If you're not an impostor: this is straight-up cheating and this is the right thing to do. Anyone caught doing this deserves a ban.
 
 ## Situations
 
