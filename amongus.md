@@ -47,8 +47,7 @@ Key bindings:
 
 ### Advanced
 - You generally want to kill people who are confirmed innocent. The more people suspicion can fall on during a meeting, the better for you.
-- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same tas
-- Use the ingame chat if you're dead if you still want to listen in on the conversations of the living over voice chat.
+- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same task.
 - You probably want to have keyboard+mouse controls enabled.
 
 
@@ -56,6 +55,7 @@ Key bindings:
 
 - Learn the wiring orders found [here](https://among-us.fandom.com/wiki/Fix_Wiring). As an impostor always mention a plausible order. As a crewmate, try to bust impostors with impossible orders.
 - Fire up a stopwatch/clock while playing on another monitor or on a phone. This can help you keep track of time while faking tasks, catching impostors who are faking tasks, and keep track of kill cooldown timers.
+- Use the ingame chat if you're dead if you still want to listen in on the conversations of the living over voice chat.
 
 ## Situations
 
