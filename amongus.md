@@ -49,6 +49,7 @@ Key bindings:
 ## Both impostors and crewmates
 
 - Learn the wiring orders found [here](https://among-us.fandom.com/wiki/Fix_Wiring). As an impostor always mention a plausible order. As a crewmate, try to bust impostors with impossible orders.
+- Fire up a stopwatch/clock while playing on another monitor or on a phone. This can help you keep track of time while faking tasks, catching impostors who are faking tasks, and keep track of kill cooldown timers.
 
 ## How settings affect the game
 
