@@ -44,11 +44,13 @@ Key bindings:
 - Careful causing crises if you're a dead impostor. Maybe mess with doors to cause suspicion, but keep it to that. You don't know what your fellow impostor is planning.
 - If you somehow are left at 6 (with two of you alive), find one person each and time the kills with the kill cooldown reset.
 - If your fellow impostor is being voted off, defending them becomes rather risky as it might out you as well.
+- Kill cooldown won't go down if you're doing any action that prevents movement (fixing lights, reactor, cams, vitals, admin table) or in a vent.
 
 ### Advanced
 - You generally want to kill people who are confirmed innocent. The more people suspicion can fall on during a meeting, the better for you.
-- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same task.
+- Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same task. Check your fake task list for what common tasks are active.
 - You probably want to have keyboard+mouse controls enabled.
+- Don't stand on a crewmate if your fellow impostor is doing so unless you're ready to execute a double kill (when there's two crewmates present)
 
 
 ## Both impostors and crewmates
@@ -87,6 +89,7 @@ A: It comes down to how well you can persuade your fellow crewmates. The risks a
 ## Suggested additional rules
 
 - On Polus it should not be allowed to ask which keyhole you had in the key common task. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it. 
+- Similarly, it should not be allowed to ask for digits on the cards on Mira (though it is less likely someone would remember that).
 
 ## What are my options in terms of playing this game?
 
@@ -102,3 +105,4 @@ Here's a list of easy to play online games/activities you can play/do together:
 
 #### Contributors
 - TZer0
+- Madmazel/Tango
