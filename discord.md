@@ -19,6 +19,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * If you want a bigger version of someone's pfp, try [discord.id](https://discord.id/) and paste in the user's unique ID (dev mode, copy ID).
 * If you'd like to mention someone that isn't in the channel/in DMs, copy their ID and write `<@ID>`.
 * When creating a new voice chat, remember to turn up the bitrate.
+* Unless you're banning an obvious reactionary or spammer, make sure to not delete the person's messages. It is important that your fellow mods (and yourself, later) are able to verify that bans are in fact justifiable.
 
 ### Roles you probably want in most servers
 
