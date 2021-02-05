@@ -60,7 +60,7 @@ The general tip is to not make your server noisy in this regard. Generally, if y
 * PTT doesn't work when any program running as admin is in focus. This includes task manager. If you were holding down your PTT button while selecting a program running as admin, your PTT will remain active even if you let go of the button. Press it again after unfocusing the window to stop broadcasting.
 * Do not ever edit out a ping, be it `@everyone`, `@role`, or `@user`. Do not edit in one either. The former leaves a ghost ping where people can see they got pinged, but won't find the message that did it, the latter doesn't ping the user/role in question.
 
-## Securing your server with an airlock
+## Securing your server with an gate
 
 This system makes it so that users have to say that they accept the rules before they're let in by a moderator. Useful when screening for potential trouble-makers.
 
@@ -83,7 +83,7 @@ I have made a bot called AcceptBot ([source code](https://bitbucket.org/TZer0/ac
 
 A very quick demo of setting up AcceptBot and using it can be found [here](https://www.youtube.com/watch?v=S6FX56gEu8k).
 
-It allows for faster handling of users coming through the airlock.
+It allows for faster handling of users coming through the gate.
 
 The way it works is that people must mention one of the trigger words such as "accept", "read", or "rules" and if they do, you can have the bot scan their message and let them in.
 
