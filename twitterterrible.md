@@ -53,6 +53,8 @@ The following applies to everyone: my recommendation is to stay away from any po
 
 If you are a content creator, avoid Twitter for anything but promoting your videos and dealing with unambiguous topics. If you wish to address something where the context can be hard to discern for others or can be read in any number of ways, make a TwitLonger, a Medium post, or a video and make sure to clarify things.
 
+If a tweet has been qoute tweeted, make sure to also open up the original tweet.
+
 ## Harassment on Twitter
 
 ### The Walls are made of Paper
