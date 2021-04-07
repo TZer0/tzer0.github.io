@@ -61,7 +61,7 @@ If a tweet has been qoute tweeted, make sure to also open up the original tweet.
 
 When you click that "Tweet"-button on Twitter, the world can now see your tweet and that's not always a good thing. Say you are a marginalised person who is venting about the shit you're facing in the bottle cap collector community. You tweet "What's up with the straights in the BCC?" because some guy kept hitting on you despite you very clearly stating you're not interested, go to sleep an hour later and wake up to find that you now have 100 messages in your inbox filled with homophobic abuse because AryanBottleCapLover88 quote-tweeted you and directed his 200 k followers at you with the message "why are you splitting the community?".
 
-Had this been any other platform, the chances of this happening are rather low. If you vent in a Discord, the members in that Discord cannot easily direct this level of harassment towards you as your messages are confined, access to you and your account are somewhat under your control and if the mods of the space where you vented detect an uptick in people trying to @ you to tell you're "a degenerate" and other horrible stuff is more easily thwarted.
+Had this been any other platform, the chances of this happening are rather low. If you vent in a Discord, the members in that Discord cannot easily direct this level of harassment towards you as your messages are confined, access to you and your account are somewhat under your control and if the mods of the space where you vented detect an uptick in people trying to @ you to tell you that you're "a degenerate" and other horrible stuff is more easily thwarted.
 
 Your only real options are to not tweet or put your your account into private mode.
 
