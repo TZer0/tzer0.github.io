@@ -94,7 +94,7 @@ A: It comes down to how well you can persuade your fellow crewmates. The risks a
 
 ## What are my options in terms of playing this game on PC?
 
-- [Steam](https://store.steampowered.com/app/945360/Among_Us/) - Costs roughly 3 EUR, officially it works on Windows, but Proton seems to run this flawlessly on Linux as well. You can also check [isthereanydeal](https://isthereanydeal.com/game/amongus/info/) for cheaper deals out there.
+- [Steam](https://store.steampowered.com/app/945360/Among_Us/)/[Epic Game Store](https://www.epicgames.com/store/en-US/p/among-us)/[Official store](https://innersloth.com/gameAmongUs.php) - Costs roughly 3 EUR, officially it works on Windows, but Proton (on Steam only) seems to run this flawlessly on Linux as well. You can also check [isthereanydeal](https://isthereanydeal.com/game/amongus/info/) for cheaper deals out there.
 - [Bluestacks](https://www.bluestacks.com/) - Free, android emulator. Works on Windows and Mac.
 
 ## We're waiting for someone to join, what should we do?
