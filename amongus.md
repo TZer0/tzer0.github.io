@@ -50,7 +50,6 @@ Key bindings:
 ### Advanced
 - You generally want to kill people who are confirmed innocent. The more people suspicion can fall on during a meeting, the better for you.
 - Learn the common tasks (and fake them) [here](https://www.youtube.com/watch?v=Sdaoa8BAmV0). If one person has them, everyone has the same task. Check your fake task list for what common tasks are active.
-- You probably want to have keyboard+mouse controls enabled.
 - Don't stand on a crewmate if your fellow impostor is doing so unless you're ready to execute a double kill (when there's two crewmates present)
 
 
