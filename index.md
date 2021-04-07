@@ -9,4 +9,6 @@ This is by no means a guarantee and I reserve my right to remove this at any poi
 
 [Music software I recommend](/musicsoft.html)
 
+[Twitter is a Terrible Platform](/twitterterrible.html)
+
 [My website](https://underhound.eu) [Patreon (will be replaced)](https://www.patreon.com/TZer0) [Discord](https://discord.gg/rfTtXW3)
