@@ -40,11 +40,18 @@ One tweet even referenced a major fash-sympathetic Youtuber in a response to thi
 First of all, context of the tweet.
 
 The original tweet wasn't addressed to anyone and thus ends up being about a nebulous "they" (please note that this is different from when a conspiracy theorist talks about "them").
+
 Who is this "they" in this context? Who is this tweet about? Is it leftist critics of content creator A or is it bad-faith smearers of content creator B? Who knows. This tweet relates to the person's subjective experience of a situation that probably isn't representative of the people they think they're addressing as a whole.
 
 This particular fault lies somewhat with the creator of the tweet, but Twitter makes this worse. The format of twitter forces your opinions into small blocks of 280 characters and discussions end up in many different places that are impossible to follow - quote tweets, responses, screencaps. This impacts how you write, what you prioritise and what you will provide in terms of references. If you add an addendum to your tweet, such as clarifying regarding point 1. that you actually think it is 100% fair to view a breadtuber as enemy, the people who have already quote tweeted you may never even see it or perhaps view it as you trying to explain away the bad thing you said rather than clarifying as it would be seen on any other platform or in a conversation in real life. This is a problem that Twitter helps create due to Twitter not being in any way threaded. Things are also easier to take out of context (even accidentally!), you may clarify, people might see just the quote tweets and not even investigate the original tweet and any possible clarifications underneath.
 
 Furthermore, the discussion-spread and non-channeled way of discussion leads to some other problems. One big advantage of platforms that let you do chat with othersin real-time is that you can respond to questions or skip over already known things. On Twitter, you may err on the side of caution and accidentally overexplain something which may come off as condescending or skip over something due to space constraints that you thought was already widely known that someone else thought you absolutely should mention.
+
+### What Should You do about this?
+
+The following applies to everyone: my recommendation is to stay away from any potentially controversial ambiguous statements or point out how it is ambiguous and ask what the person in question meant. Even if it is someone who you otherwise dislike, you should still attempt a good faith reading of what's being said and perhaps ask for clarification rather than quote tweeting a dunk.
+
+If you are a content creator, avoid Twitter for anything but promoting your videos and dealing with unambiguous topics. If you wish to address something where the context can be hard to discern for others or can be read in any number of ways, make a TwitLonger, a medium post, or a video and make sure to clarify things.
 
 ## Technical Aspects of Twitter
 
