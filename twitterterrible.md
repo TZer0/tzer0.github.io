@@ -27,7 +27,7 @@ First of all, I want to point out that "breadtuber" is a sort of ill-defined ter
 
 I'd like to examine how meaning gets absolutely destroyed as the tweet above gets quote-tweeted and misread.
 
-Point 1 was read as "don't criticise" by several people quote tweeting this tweet. Any good-faith reading of it would assume "don't make it your primary endevour thing to criticise breadtubers". The person tweeting this knows full well that there are antagonisms between breadtubers and it specifies "primary enemy". You can still according to the tweeter view someone who is another person that is anarchist-leaning + leftist-leaning as an enemy.
+Point 1 was read as "don't criticise" by several people quote tweeting this tweet. Any good-faith reading of it would assume "don't make it your primary endevour to criticise breadtubers". The person tweeting this knows full well that there are antagonisms between breadtubers and it specifies "primary enemy". You can still according to the tweeter view someone who is another person that is anarchist-leaning + leftist-leaning as an enemy.
 
 Point 2 was read as "breadtubers don't actually hold power". The good-faith reading of this would be "breadtubers don't hold actual power relative to for instance elected officials" because it is pretty obvious that someone with even 10 k subscribers holds some power - just not the power to for instance escape jail-time for crimes. Could someone with 100 k subscribers harass someone off the Internet? Incite some nastiness? Absolutely. Could they defund trans healthcare in their region or get homeless people arrested? Not so much. A subscriber matters much less than a vote in our current systems.
 
@@ -52,6 +52,16 @@ Furthermore, the discussion-spread and non-channeled way of discussion leads to 
 The following applies to everyone: my recommendation is to stay away from any potentially controversial ambiguous statements or point out how it is ambiguous and ask what the person in question meant. Even if it is someone who you otherwise dislike, you should still attempt a good faith reading of what's being said and perhaps ask for clarification rather than quote tweeting a dunk.
 
 If you are a content creator, avoid Twitter for anything but promoting your videos and dealing with unambiguous topics. If you wish to address something where the context can be hard to discern for others or can be read in any number of ways, make a TwitLonger, a Medium post, or a video and make sure to clarify things.
+
+## Harassment on Twitter
+
+### The Walls are made of Paper
+
+When you click that "Tweet"-button on Twitter, the world can now see your tweet and that's not always a good thing. Say you are a marginalised person who is venting about the shit you're facing in the bottle cap collector community. You tweet "What's up with the straights in the BCC?" because some guy kept hitting on you despite you very clearly stating you're not interested, go to sleep an hour later and wake up to find that you now have 100 messages in your inbox filled with homophobic abuse because AryanBottleCapLover88 quote-tweeted you and directed his 200 k followers at you with the message "why are you splitting the community?".
+
+Had this been any other platform, the chances of this happening are rather low. If you vent in a Discord, the members in that Discord cannot easily direct this level of harassment towards you as your messages are confined, access to you and your account are somewhat under your control and if the mods of the space where you vented detect an uptick in people trying to @ you to tell you're "a degenerate" and other horrible stuff is more easily thwarted.
+
+Your only real options are to not tweet or put your your account into private mode.
 
 ## Technical Aspects of Twitter
 
