@@ -48,4 +48,4 @@ Furthermore, the discussion-spread and non-channeled way of discussion leads to 
 ## Technical Aspects of Twitter
 
 ### `?s=XX`
-If you are sharing a link, make sure to trim away the last part of the URL (if it exists) that says `?s=XX` where `XX` is a number. This gets prepended when you share a link from mobile and changes how the tweet is viewed on desktop if opened. Rather than showing you the tweet + the responses undearneath, it instead shows you the tweet, three responses and then other suggested tweets picked by an algorithm. This is an engagement-boosting device they have made that you should be aware of.
+If you are sharing a link, make sure to trim away the last part of the URL (if it exists) that says `?s=XX` where `XX` is a number such as `?s=21`. This gets prepended when you share a link from mobile and changes how the tweet is viewed on desktop if opened. Rather than showing you the tweet + the responses undearneath, it instead shows you the tweet, three responses and then other suggested tweets picked by an algorithm. This is an engagement-boosting device they have made that you should be aware of.
