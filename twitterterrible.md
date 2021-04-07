@@ -51,7 +51,7 @@ Furthermore, the discussion-spread and non-channeled way of discussion leads to 
 
 The following applies to everyone: my recommendation is to stay away from any potentially controversial ambiguous statements or point out how it is ambiguous and ask what the person in question meant. Even if it is someone who you otherwise dislike, you should still attempt a good faith reading of what's being said and perhaps ask for clarification rather than quote tweeting a dunk.
 
-If you are a content creator, avoid Twitter for anything but promoting your videos and dealing with unambiguous topics. If you wish to address something where the context can be hard to discern for others or can be read in any number of ways, make a TwitLonger, a medium post, or a video and make sure to clarify things.
+If you are a content creator, avoid Twitter for anything but promoting your videos and dealing with unambiguous topics. If you wish to address something where the context can be hard to discern for others or can be read in any number of ways, make a TwitLonger, a Medium post, or a video and make sure to clarify things.
 
 ## Technical Aspects of Twitter
 
