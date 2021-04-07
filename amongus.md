@@ -2,6 +2,7 @@
 
 
 ## General
+If you're playing on PC, make sure to enable Mouse + Keyboard controls in the options so you can walk with WASD.
 
 Key bindings:
 * E - use
@@ -91,7 +92,7 @@ A: It comes down to how well you can persuade your fellow crewmates. The risks a
 - On Polus it should not be allowed to ask which keyhole you had in the key common task. Reason: the order is determined by the order in which people joined the server. This means you can be caught out once by this and on top of this: people joining the server late won't be able to do it. 
 - Similarly, it should not be allowed to ask for digits on the cards on Mira (though it is less likely someone would remember that).
 
-## What are my options in terms of playing this game?
+## What are my options in terms of playing this game on PC?
 
 - [Steam](https://store.steampowered.com/app/945360/Among_Us/) - Costs roughly 3 EUR, officially it works on Windows, but Proton seems to run this flawlessly on Linux as well. You can also check [isthereanydeal](https://isthereanydeal.com/game/amongus/info/) for cheaper deals out there.
 - [Bluestacks](https://www.bluestacks.com/) - Free, android emulator. Works on Windows and Mac.
