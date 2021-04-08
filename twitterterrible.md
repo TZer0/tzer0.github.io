@@ -47,7 +47,7 @@ This particular fault lies somewhat with the creator of the tweet, but Twitter m
 
 Furthermore, the discussion-spread and non-channeled way of discussion leads to some other problems. One big advantage of platforms that let you do chat with others in real-time is that you can respond to questions or skip over already known things. On Twitter, you may err on the side of caution and accidentally overexplain something which may come off as condescending or skip over something due to space constraints that you thought was already widely known that someone else thought you absolutely should mention.
 
-I think it is also somewhat easy to accidentally poison the well. If the first thing you see of the tweet we're using as an example is someone quote-tweeting it and misreading either point, it becomes much easier to misread the tweet the same way - especially if the original tweet is from someone you dislike and the person quote-tweeting it is someone you like.
+I think it is also somewhat easy to accidentally poison the well. If the first thing you see of the tweet we're using as an example is someone quote-tweeting it and misreading a point, it becomes much easier to misread the tweet the same way - especially if the original tweet is from someone you dislike and the person quote-tweeting it is someone you like.
 
 All of this combines to create a situation where context is easily lost, clarifications are difficult, threads end up either clunky from overexplaining or missing information others feel is critical and ambiguity is difficult to avoid - all of this makes it difficult to have an actual discussion on this medium.
 
