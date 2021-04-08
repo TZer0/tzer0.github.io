@@ -33,7 +33,7 @@ Point 2 was read as "breadtubers don't actually hold power". The good-faith read
 
 Point 3 was generally not remarked upon and is hence in my opinion not that important to what we're discussing.
 
-I also observed a tweet that made three points that they thought were incompatible with the original tweet (including "having an audience is power") to which the content creator responded "I agree" in a reply. I think it is fair to say the original tweet has been misread
+I also observed a tweet that made three points that they thought were incompatible with the original tweet (including "having an audience is power") to which the content creator responded "I agree" in a reply. I think it is fair to say the original tweet has been misread.
 
 ### The Problems and How Twitter makes it Worse
 
