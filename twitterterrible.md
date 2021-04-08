@@ -27,13 +27,13 @@ First of all, I want to point out that "breadtuber" is a sort of ill-defined ter
 
 I'd like to examine how meaning gets absolutely destroyed as the tweet above gets quote-tweeted and misread.
 
-Point 1 was read as "don't criticise" by several people quote tweeting this tweet. Any good-faith reading of it would assume "don't make it your primary endevour to criticise breadtubers". The person tweeting this knows full well that there are antagonisms between breadtubers and it specifies "primary enemy". You can still according to the tweeter view someone who is another person that is anarchist-leaning + leftist-leaning as an enemy.
+Point 1 was read as "don't criticise" by several people quote tweeting this tweet. Any good-faith reading of it would assume "don't make it your primary endevour to criticise breadtubers". The person tweeting this knows full well that there are antagonisms between breadtubers and it specifies "primary enemy". You can still according to the tweeter view someone who is another person that is anarchist-leaning + leftist-leaning as an enemy. One tweet even referenced a major fash-sympathetic Youtuber in a response to this tweet.
 
 Point 2 was read as "breadtubers don't actually hold power". The good-faith reading of this would be "breadtubers don't hold actual power relative to for instance elected officials" because it is pretty obvious that someone with even 10 k subscribers holds some power - just not the power to for instance escape jail-time for crimes. Could someone with 100 k subscribers harass someone off the Internet? Incite some nastiness? Absolutely. Could they defund trans healthcare in their region or get homeless people arrested? Not so much. A subscriber matters much less than a vote in our current systems.
 
 Point 3 was generally not remarked upon and is hence in my opinion not that important to what we're discussing.
 
-One tweet even referenced a major fash-sympathetic Youtuber in a response to this tweet.
+I also observed a tweet that made three points that they thought were incompatible with the original tweet (including "having an audience is power") to which the content creator responded "I agree" in a reply. I think it is fair to say the original tweet has been misread.
 
 ### The Problems and How Twitter makes it Worse
 
