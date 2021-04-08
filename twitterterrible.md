@@ -33,7 +33,7 @@ Point 2 was read as "breadtubers don't actually hold power". The good-faith read
 
 Point 3 was generally not remarked upon and is hence in my opinion not that important to what we're discussing.
 
-I also observed a tweet that made three points that they thought were incompatible with the original tweet (including "having an audience is power") to which the content creator responded "I agree" in a reply. I think it is fair to say the original tweet has been misread.
+I also observed a tweet that made three points that they thought were incompatible with the original tweet (including "having an audience is power") to which the content creator responded "I agree" in a reply. I think it is fair to say the original tweet has been misread
 
 ### The Problems and How Twitter makes it Worse
 
@@ -73,3 +73,5 @@ Your only real options are to not tweet or put your your account into private mo
 
 ### `?s=XX`
 If you are sharing a link, make sure to trim away the last part of the URL (if it exists) that says `?s=XX` where `XX` is a number such as `?s=21`. This gets prepended when you share a link from mobile and changes how the tweet is viewed on desktop if opened. Rather than showing you the tweet + the responses undearneath, it instead shows you the tweet, three responses and then other suggested tweets picked by an algorithm. This is an engagement-boosting device they have made that you should be aware of.
+
+Click the linked tweet to get rid of this parameter without manually editing the URL.
