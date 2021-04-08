@@ -37,7 +37,7 @@ One tweet even referenced a major fash-sympathetic Youtuber in a response to thi
 
 ### The Problems and How Twitter makes it Worse
 
-First of all, context of the tweet.
+The context of the tweet is a problem.
 
 The original tweet wasn't addressed to anyone and thus ends up being about a nebulous "they" (please note that this is different from when a conspiracy theorist talks about "them").
 
