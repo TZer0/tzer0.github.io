@@ -49,7 +49,7 @@ Furthermore, the discussion-spread and non-channeled way of discussion leads to 
 
 I think it is also somewhat easy to accidentally poison the well. If the first thing you see of the tweet we're using as an example is someone quote-tweeting it and misreading a point, it becomes much easier to misread the tweet the same way - especially if the original tweet is from someone you dislike and the person quote-tweeting it is someone you like.
 
-All of this combines to create a situation where context is easily lost, clarifications are difficult, threads end up either clunky from overexplaining or missing information others feel is critical and ambiguity is difficult to avoid - all of this makes it difficult to have an actual discussion on this medium.
+All of this combines to create a situation where context is easily lost, clarifications are difficult, threads end up either clunky from overexplaining or missing information others feel is critical and ambiguity is difficult to avoid - this makes it difficult to have an actual discussion on this medium.
 
 ### What Should You do about this?
 
