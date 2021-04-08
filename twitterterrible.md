@@ -47,11 +47,15 @@ This particular fault lies somewhat with the creator of the tweet, but Twitter m
 
 Furthermore, the discussion-spread and non-channeled way of discussion leads to some other problems. One big advantage of platforms that let you do chat with others in real-time is that you can respond to questions or skip over already known things. On Twitter, you may err on the side of caution and accidentally overexplain something which may come off as condescending or skip over something due to space constraints that you thought was already widely known that someone else thought you absolutely should mention.
 
+I think it is also somewhat easy to accidentally poison the well. If the first thing you see of the tweet we're using as an example is someone quote-tweeting it and misreading either point, it becomes much easier to misread the tweet the same way - especially if the original tweet is from someone you dislike and the person quote-tweeting it is someone you like.
+
+All of this combines to create a situation where context is easily lost, clarifications are difficult, threads end up either clunky from overexplaining or missing information others feel is critical and ambiguity is difficult to avoid - all of this makes it difficult to have an actual discussion on this medium.
+
 ### What Should You do about this?
 
 The following applies to everyone: my recommendation is to stay away from any potentially controversial ambiguous statements or point out how it is ambiguous and ask what the person in question meant. Even if it is someone who you otherwise dislike, you should still attempt a good faith reading of what's being said and perhaps ask for clarification rather than quote tweeting a dunk.
 
-If you are a content creator, avoid Twitter for anything but promoting your videos and dealing with unambiguous topics. If you wish to address something where the context can be hard to discern for others or can be read in any number of ways, make a TwitLonger, a Medium post, or a video and make sure to clarify things.
+If you are a content creator, avoid Twitter for anything but promoting your videos and dealing with unambiguous topics. If you wish to address something where the context can be hard to discern for others or can be read in any number of ways: make a TwitLonger, a Medium post, or a video and make sure to clarify things.
 
 If a tweet has been qoute tweeted, make sure to also open up the original tweet.
 
@@ -59,7 +63,7 @@ If a tweet has been qoute tweeted, make sure to also open up the original tweet.
 
 ### The Walls are made of Paper
 
-When you click that "Tweet"-button on Twitter, the world can now see your tweet and that's not always a good thing. Say you are a marginalised person who is venting about the shit you're facing in the bottle cap collector community. You tweet "What's up with the straights in the BCC?" because some guy kept hitting on you despite you very clearly stating you're not interested, go to sleep an hour later and wake up to find that you now have 100 messages in your inbox filled with homophobic abuse because AryanBottleCapLover88 quote-tweeted you and directed his 200 k followers at you with the message "why are you splitting the community?".
+When you click that "Tweet"-button on Twitter, the world can now see your tweet and that's not always a good thing. Say you are a marginalised person who is venting about the shit you're facing in the bottle cap collector community. You tweet "What's up with the straights in the BCC?" because some guy kept hitting on you despite you very clearly stating you're not interested, you go to sleep an hour later and wake up to find that you now have 100 messages in your inbox filled with homophobic abuse because AryanBottleCapLover88 quote-tweeted you and directed his 200 k followers to your tweet with the message "why are you splitting the community?".
 
 Had this been any other platform, the chances of this happening are rather low. If you vent in a Discord, the members in that Discord cannot easily direct this level of harassment towards you as your messages are confined, access to you and your account are somewhat under your control and if the mods of the space where you vented detect an uptick in people trying to @ you to tell you that you're "a degenerate" and other horrible stuff is more easily thwarted.
 
