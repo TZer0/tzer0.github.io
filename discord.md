@@ -139,7 +139,7 @@ This assumes you've already set up reaction roles using `!rr make`.
 14. If you don't have admin (but have mod), you can't click the clear permissions button for a role even if you are able to turn off each of them individually.
 15. New roles inherit from `@everyone`. This means that if you forgot to remove the ability to ping `@everyone` before you made new roles, you'll have to go through every role individually and do it for every single one of them.
 16. Granting someone read messages history permission in a channel doesn't update what they see. They'll have to restart the client to see what they're now allowed to see.
-17. MessageDeleteEvent doesn't contain information about who deleted a given message.
+17. MessageDeleteEvent doesn't contain information about who deleted a given message nor whose message it was. Audit log does't contain timestamp of messages deleted, only who deleted and whose it was.
 
 #### Contributors
 - TZer0
