@@ -97,7 +97,6 @@ It has cut down technical moderation tasks by an incredible amount, especially w
 - [YAGPDB.xyz](https://YAGPDB.xyz) - Same as carlbot, but with other nifty features such as mod-made scripts.
 - [MEE6](https://mee6.xyz) - Custom commands, has feature to post Youtube-feeds, some role options. Starting to get premiumfied (more and more restricted features for non-paying users)
 - [Rythm](https://rythmbot.co/) + [Groovy](https://groovy.bot/) - two music bots that use different prefixes. You might want one or both.
-- [Roleypoly](https://roleypoly.com/) - *Note: currently broken! Bot is currently not able to see users properly due to changes on Discord. Roles will not appear as assigned.* Web-based interface for configuring roles. The good: no complex commands, the bad: requires login and can be a handful on mobile.
 
 
 ## Tip for adding Carl Bot react roles to an existing react group
