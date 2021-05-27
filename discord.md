@@ -4,7 +4,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 
 ## General notes regarding Discord
 
-* As a mod/admin/owner, you want developer mode on at all times (user settings -> appearance).
+* As a mod/admin/owner, you want developer mode on at all times (user settings -> advanced).
 * Always enable "Display role members separately from online members" for administrators and moderators in bigger servers, also give bots a separate role.
 * Do not create a role with any potentially destructive permissions (such as "Administrator, "Ban Members") low in the hierarchy of roles.
 * Anyone with "Administrator", "Manage Server", "Manage Channels" or "Manage Roles" can seriously mess up the server, but it will be noted in the audit log who did it.
