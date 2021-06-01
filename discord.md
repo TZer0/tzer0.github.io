@@ -140,6 +140,7 @@ This assumes you've already set up reaction roles using `!rr make`.
 16. MessageDeleteEvent doesn't contain information about who deleted a given message nor whose message it was. Audit log does't contain timestamp of messages deleted, only who deleted and whose it was.
 17. Minor thing, but tilde and minus are incredibly similar, especially when the font size is reduced.
 18. There are so many gifs and videos out there that crash Discord and there's absolutely no detection for this.
+19. Default dark purple for roles has a rather low contrast with the dark theme, making it difficult to read.
 
 #### Contributors
 - TZer0
