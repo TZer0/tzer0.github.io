@@ -20,6 +20,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * If you'd like to mention someone that isn't in the channel/in DMs, copy their ID and write `<@ID>`.
 * When creating a new voice chat, remember to turn up the bitrate.
 * Unless you're banning an obvious reactionary or spammer, make sure to not delete the person's messages. It is important that your fellow mods (and yourself, later) are able to verify that the ban was in fact justifiable.
+* Make sure to test your role colours in dark and light mode and that they have decent contrast in all situations, including in the list of offline users. Anything else can be hard to read and/or uncomfortable to look at.
 
 ### Roles you probably want in most servers
 
