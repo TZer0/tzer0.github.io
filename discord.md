@@ -25,7 +25,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 ### Roles you probably want in most servers
 
 * Voice Chat Anyone? - pingable role for when people want to talk
-* Pronoun roles - makes the space a bit more welcoming in general to trans and gender non-conforming folks.
+* Pronoun roles - makes the space a bit more welcoming in general to trans and gender non-conforming folks. Put these at the end of the list of roles so they're always last and thus in a consistent place for ease of checking.
 
 ## General notes about interactions in digital spaces
 
