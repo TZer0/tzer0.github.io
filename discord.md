@@ -142,6 +142,7 @@ This assumes you've already set up reaction roles using `!rr make`.
 17. Minor thing, but tilde and minus are incredibly similar, especially when the font size is reduced.
 18. There are so many gifs and videos out there that crash Discord and there's absolutely no detection for this.
 19. Default dark purple for roles has a rather low contrast with the dark theme, making it difficult to read.
+20. Bios are being added. However: you can't filter what server members are able to see and there's no explicit pronouns field available.
 
 #### Contributors
 - TZer0
