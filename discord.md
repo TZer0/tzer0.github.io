@@ -143,6 +143,8 @@ This assumes you've already set up reaction roles using `!rr make`.
 18. There are so many gifs and videos out there that crash Discord and there's absolutely no detection for this.
 19. Default dark purple for roles has a rather low contrast with the dark theme, making it difficult to read.
 20. Bios are being added. However: you can't filter what server members are able to see and there's no explicit pronouns field available.
+21. If a server you're in gets banned, your user might be taken with it regardless of level of participation.
+22. There are still Discord-crashing gifs and videos.
 
 #### Contributors
 - TZer0
