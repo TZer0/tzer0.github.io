@@ -42,7 +42,7 @@ You can see a successful nightmare (top level) run [here](https://www.youtube.co
 
 ### Requiem Mods
 
-Requirements: complete [The War Within](https://warframe.fandom.com/wiki/The_War_Within)
+Requirements: must have completed [The War Within](https://warframe.fandom.com/wiki/The_War_Within)
 
 You can easily farm requiem mods from hunting [liches](https://warframe.fandom.com/wiki/Kuva_Lich) and cracking [relics dropped from their thralls](https://warframe.fandom.com/wiki/Void_Relic#Requiem_Relics).
 
