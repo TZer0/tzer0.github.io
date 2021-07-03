@@ -39,3 +39,13 @@ The treasurer will spawn 2-5 minutes into the mission. If he hasn't spawned by t
 The disadvantage of running solo is that you won't be able to run a surplus of crowns.
 
 You can see a successful nightmare (top level) run [here](https://www.youtube.com/watch?v=cposSpiwYeo).
+
+### Requiem Mods
+
+Requirements: complete [The War Within](https://warframe.fandom.com/wiki/The_War_Within)
+
+You can easily farm requiem mods from hunting [liches](https://warframe.fandom.com/wiki/Kuva_Lich) and cracking [relics dropped from their thralls](https://warframe.fandom.com/wiki/Void_Relic#Requiem_Relics).
+
+The requiem mods sell for 10-15 plat each.
+
+Market links: [Lohk](https://warframe.market/items/lohk) [Xata](https://warframe.market/items/xata) [Jahu](https://warframe.market/items/jahu) [Vome](https://warframe.market/items/vome) [Ris](https://warframe.market/items/ris) [Fass](https://warframe.market/items/fass) [Netra](https://warframe.market/items/netra) [Khra](https://warframe.market/items/netra)
