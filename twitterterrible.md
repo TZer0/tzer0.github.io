@@ -23,7 +23,8 @@ There are in my opinion three statements here and I'd like to explore how this w
 
 ### The Readings
 
-First of all, I want to point out that "breadtuber" is a sort of ill-defined term as it is a label applied to leftist anarchist-leaning content creators (and sometimes not even anarchist-leaning ones) by viewers rather one that has been claimed by the content creators themselves. This however doesn't matter in this discussion and I'll be using the term below.
+First of all, I want to point out that "breadtuber" is a sort of ill-defined term as it is a label that was meant to be applied to leftist anarchist-leaning content creators by viewers rather one that has been claimed by the content creators themselves. However, literally anyone can fall under the umbrella depending on who you ask and [Wikipedia is even saying that Destiny (Steven Bonnell) has been described as a part of "breadtube"](https://en.wikipedia.org/w/index.php?title=BreadTube&oldid=1031145536#Notable_channels). In short: the label really doesn't make any sense.
+This however doesn't matter in this discussion and I'll be using the term below.
 
 I'd like to examine how meaning gets absolutely destroyed as the tweet above gets quote-tweeted and misread.
 
