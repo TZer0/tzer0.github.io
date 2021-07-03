@@ -1,11 +1,15 @@
 # Useful Warframe Knowledge
 
-This document will contain useful knowledge for playing Warframe.
+This document contains useful knowledge for playing Warframe.
 
-## Useful Websites
+## Useful Websites/Links
 [Warframe.market](https://warframe.market/)
 
 [Riven average price list](https://semlar.com/rivenprices)
+
+[Official drop tables for the entire game](https://www.warframe.com/droptables)
+
+[Get Ignis Wraith for free](https://forums.warframe.com/topic/1204479-infinite-ignis-wraith-giveaway-aka-officially-declaring-ignis-wraith-market-price-at-0p-pc-only/)
 
 ## Making Plat
 
