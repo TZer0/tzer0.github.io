@@ -38,4 +38,4 @@ The treasurer will spawn 2-5 minutes into the mission. If he hasn't spawned by t
 
 The disadvantage of running solo is that you won't be able to run a surplus of crowns.
 
-You can see a successful top level run [here](https://www.youtube.com/watch?v=cposSpiwYeo).
+You can see a successful nightmare (top level) run [here](https://www.youtube.com/watch?v=cposSpiwYeo).
