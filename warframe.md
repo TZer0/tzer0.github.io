@@ -18,9 +18,9 @@ This document contains useful knowledge for playing Warframe.
 #### Overview
 Mode: solo
 
-Requirements: must have completed [The Deadlock Protocol](https://warframe.fandom.com/wiki/The_Deadlock_Protocol)
+Requirements: must have completed [The Deadlock Protocol](https://warframe.fandom.com/wiki/The_Deadlock_Protocol
 
-Recommended (fastest) nodes: Skyresh (Phobos, tier 1), Ishtar (Venus, tier 1, coincides with Jackal), Adresta (Jupiter, T2), Hydra (Pluto, T3)
+Recommended (fastest) nodes: Skyresh (Phobos, normal), Ishtar (Venus, normal, coincides with Jackal), Adresta (Jupiter, extended), Hydra (Pluto, nightmare)
 
 Recommended setup: Mesa with Arcane Velocity + decent energy + some decent damage on the regulators.
 
