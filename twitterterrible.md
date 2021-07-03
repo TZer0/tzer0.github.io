@@ -11,7 +11,7 @@ I don't think anyone in particular in what I'm describing did anything exception
 
 ### The Case
 
-I'd like to talk about this tweet from a leftist content creator and the reactions it got:
+I'd like to talk about this (now deleted) tweet from a leftist content creator and the reactions it got:
 > If your primary enemy is "breadtubers" or content creator X then you're not really attacking anyone who wields any actual power.
 > 
 > You just hate an e-celeb. In which case fair dues but it's not exactly revolutionary action 
@@ -20,6 +20,8 @@ There are in my opinion three statements here and I'd like to explore how this w
 1. Don't make "breadtubers" your primary enemy.
 2. These "breadtubers" don't hold "actual power".
 3. Attacking e-celebs is not revolutionary action, but you can still do it.
+
+If you manage to figure who was involved in this, please leave everyone alone. **Do not harass anyone involved here.**
 
 ### The Readings
 
