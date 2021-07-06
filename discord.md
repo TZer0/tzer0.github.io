@@ -32,10 +32,10 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * Writing down some rules is a must when the server hits anything beyond 20 users, preferably even earlier. If you start creating rules after an incident, the rules will feel as a permanent reminder for the offender and will lead to more negative tension. Rules are in my opinion more about shaping the environment than using the banhammer to enforce them.
 * Make sure to have a suggestions-channel to avoid mods having to handle suggestions in DMs.
 * In larger servers it is necessary to make an internal #moderation-notes-channel. It should contain information that every mod needs to know such as:
- - When to use `@everyone` and `@here`
- - How bans are handled (when to ban, when to delete messages when banning, etc.)
- - Important bot functionality, links to bot dashboards if applicable
- - Any non-intuitive technical intricacies relating to the server
+  * When to use `@everyone` and `@here`
+  * How bans are handled (when to ban, when to delete messages when banning, etc.)
+  * Important bot functionality, links to bot dashboards if applicable
+  * Any non-intuitive technical intricacies relating to the server
 
 ## Making sure that users do not mute `@everyone`/`@here` mentions
 
