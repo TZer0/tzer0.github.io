@@ -36,7 +36,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
   * How bans are handled (when to ban, when to delete messages when banning, etc.)
   * Important bot functionality, links to bot dashboards if applicable
   * Any non-intuitive technical intricacies relating to the server
-* Once your server hits more 1000 users, you're going to start needing the following (perhaps you need these things even earlier):
+* Once your server hits more than 1000 users, you're going to start needing the following (perhaps you need these things even earlier):
   * Modmail. Carl-bot has one. If there are tasks that just need to be done sooner or later but aren't critical, then modmail is the place. It should be used to handle pronoun role requests, signal boosts if your server does those, and new channel requests. Use reacts in the modmail channel to denote what has been handled.
   * Instructions for users on when to contact moderators in DMs in a channel detailing things they might get contacted about. You can't avoid DMs regarding certain things such as reports of harassment, but there needs to be some effort in avoiding DMs being sent to moderators/admins as sooner or later you'll be getting too many (or maybe one particular mod is getting too many and no one knows about it). Specify that users are requested to read the channel before contacting moderators.
 
