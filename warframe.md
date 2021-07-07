@@ -13,6 +13,17 @@ This document contains useful knowledge for playing Warframe.
 
 [Overframe.gg](https://overframe.gg/) - helps you theorycraft builds
 
+## Starting out
+
+If you're a new player (or about to start playing), I have the following recommendations:
+* Don't pick Volt as your starting frame.
+* Join a clan (gets you access to Volt).
+* The moment you hit mastery rank 4, get the Hek blueprint from the market and build it. It'll carry you well.
+* Buy every MK1 from the market in turn, level them to 30 and throw them in the bin.
+* Check what weapons are required as ingredients for other weapons before you throw any of them [here](https://warframe.fandom.com/wiki/Weapons_Required_as_Crafting_Ingredients).
+* Get a Kuva Nukor when you can (you won't regret it).
+* Don't spend plat on something you could earn by just playing the game.
+
 ## Making Plat
 
 ### Granum Void farming
