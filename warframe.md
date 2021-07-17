@@ -3,7 +3,7 @@
 This document contains useful knowledge for playing Warframe.
 
 ## Useful Websites/Links
-[Warframe.market](https://warframe.market/)
+[Warframe.market](https://warframe.market/) - [Ducanator (use to figure out trade away for ducats)](https://warframe.market/tools/ducats)
 
 [Riven average price list](https://semlar.com/rivenprices)
 
