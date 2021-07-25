@@ -13,7 +13,9 @@ This document contains useful knowledge for playing Warframe.
 
 [Overframe.gg](https://overframe.gg/) - helps you theorycraft builds
 
-## Starting out
+## General tips
+
+### Starting out
 
 If you're a new player (or about to start playing), I have the following recommendations:
 * Don't pick Volt as your starting frame.
@@ -23,6 +25,13 @@ If you're a new player (or about to start playing), I have the following recomme
 * Check what weapons are required as ingredients for other weapons before you throw away any of them [here](https://warframe.fandom.com/wiki/Weapons_Required_as_Crafting_Ingredients).
 * Get a Kuva Nukor when you can (you won't regret it).
 * Don't spend plat on something you could earn by just playing the game.
+* Don't sell non-prime frames if you get the prime variant. Get the helminth segment instead and subsume the frame
+
+### Late-game tips
+
+* Perspicacity from helminth at rank 3 is useful for sorties. Allows you to hack panels without doing the minigame (because ciphers do not work).
+* Golden Inscint from helminth at rank 15 is useful for general content. Helps you ayatan sculptures and rare crates.
+* Get galvanized mods from arbitration and arcanes from steel path to boost any primary/secondary weapon you own.
 
 ## Making Plat
 
