@@ -30,7 +30,7 @@ If you're a new player (or about to start playing), I have the following recomme
 ### Late-game tips
 
 * Perspicacity from helminth at rank 3 is useful for sorties. Allows you to hack panels without doing the minigame (because ciphers do not work).
-* Golden Inscint from helminth at rank 15 is useful for general content. Helps find you ayatan sculptures and rare crates.
+* Golden Instinct from helminth at rank 15 is useful for general content. Helps find you ayatan sculptures and rare crates.
 * Get galvanized mods from arbitration and arcanes from steel path to boost any primary/secondary weapon you own.
 
 ## Making Plat
