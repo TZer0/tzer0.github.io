@@ -42,7 +42,7 @@ Mode: solo
 
 Requirements: must have completed [The Deadlock Protocol](https://warframe.fandom.com/wiki/The_Deadlock_Protocol)
 
-Recommended (fastest) nodes: Skyresh (Phobos, normal), Ishtar (Venus, normal, coincides with Jackal), Adresta (Jupiter, extended), Hydra (Pluto, nightmare)
+Recommended (fastest) nodes: Skyresh (Phobos, normal), Fossa (Venus, normal, coincides with Jackal), Adresta (Jupiter, extended), Hydra (Pluto, nightmare)
 
 Recommended setup: Mesa with Arcane Velocity + decent energy + some decent damage on the regulators.
 
