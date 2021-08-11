@@ -110,11 +110,11 @@ The base damage per second is `1 * 1 * 1 = 1` and anything but spreading out the
 Therefore, what you need to consider when picking mods is how much the given factor is already affected. 
 If you have a weapon (with base damage 1) that already has +300% damage, but no %elemental damage increase, and you're given the choice between an additional +100% damage or +75% elemental damage, disregarding any needs for specific damage types, the latter option will give a better raw DPS result.
 
-`1 * (1 + (300 + 100)/ 100) * 1 = 4`
+`1 * (1 + (300 + 100) / 100) * 1 = 4`
 
 vs.
 
-`1 * (1 + (300) / 100) * (1 + (75)/100) = 4.75`
+`1 * (1 + (300) / 100) * (1 + (75) / 100) = 4.75`
 
 There are therefore two rules of thumb for getting high damage numbers:
 * Go for cheap increases in any factor.
