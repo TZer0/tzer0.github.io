@@ -73,10 +73,49 @@ The requiem mods sell for 10-15 plat each.
 Market links: [Lohk](https://warframe.market/items/lohk) [Xata](https://warframe.market/items/xata) [Jahu](https://warframe.market/items/jahu) [Vome](https://warframe.market/items/vome) [Ris](https://warframe.market/items/ris) [Fass](https://warframe.market/items/fass) [Netra](https://warframe.market/items/netra) [Khra](https://warframe.market/items/khra)
 
 ## Increasing Weapon Damage
+
+### Damage formula
 In order to understand how to maximise weapon damage, you need to understand the damage formula.
 
 The damage per second formula is as follows (minus any status):
 
-base damage * %damage increase factor * %elemental damage increase factor * fire rate * crit factor * multi-shot * any other buff
+`Base damage * %damage increase factor * %elemental damage increase factor * fire rate * crit factor * multi-shot * bonus damage`
 
+`Base damage` is the damage you see in your weapon with no mods installed.
 
+`%damage increase factor` is `1 + total_damage_increase_in_percent/100`, so if you're running a top level hornet strike (220%) and nothing else, this number is `1 + (220)/100 = 3.2`.
+
+`%elemental damage increase factor` is `1 + total_elemental_damage_increase_in_percent/100`, so having primed cryo rounds at max rank (165%) and infected clip at max rank (90%), this number is `1 + (165 + 90)/100 = 3.55`  
+
+`fire rate` is literally just the fire rate, nothing special.
+
+`crit factor` is a combination of critical chance and critical damage. The formula is `1 + (critical_chance/100) * (critical_damage_multiplier - 1)`, so if you have a crit chance of 250% and multiplier of 4.5x, this number is `1 + (250/100) * (4.5 - 1) = 9.75` This means that on average each shot will deal 9.75x damage due to crits. In the example above, half the hits will deal 8x damage and the other half will deal 11.5.
+
+`multi-shot` is literally just the multi-shot number as seen in the stats.
+
+`bonus damage` are effects such as toxic lash (Saryn), roar (Rhino) and smite/cleanse/expel/bane mods. These are multiplied with one another the same way, so if you cast toxic lash and it gives you +50% toxin damage, the factor is `1.5`, if you're also roar-buffed for another 50% damage, the number is `1.5 * 1.5 = 2.25`.
+
+### Notes
+* +damage% from weapon arcanes apply additively to `%damage increase factor`. So if you have max stack on a primary or secondary arcane, that number increases by 3.6.
+* [Arcane Avenger](https://warframe.fandom.com/wiki/Arcane_Avenger) adds absolute percentage points to the critical chance rather than applying to the base critical chance. This is incredibly powerful on weapons with a low base crit rate, but high crit multiplier such as the [Kuva Nukor](https://warframe.fandom.com/wiki/Kuva_Nukor), increasing the damage by a factor of 4.275x if a max rank [Primed Target Cracker](https://warframe.fandom.com/wiki/Primed_Target_Cracker).
+* Most arcanes apply additively to their respective factors, so on a weapon that has a fire rate of 5, [Lethal Torrent](https://warframe.fandom.com/wiki/Lethal_Torrent) and [Arcane Velocity](https://warframe.fandom.com/wiki/Arcane_Velocity) equipped, while the latter is active, the fire rate will be `5 * (1 + 0.6 + 1.2) = 14.0`.
+
+### Optimising
+The general trick to optimising the numbers is to spread out the increases as much as possible. Let's focus on just `%damage increase factor`, `%elemental damage increase factor` and `fire rate`.
+
+Supposed for simplicity we have mods that can increase any of these numbers by 100%, fire rate for simplicty starts off at 1, and that we can only install 6 mods.
+
+The base damage per second is `1 * 1 * 1 = 1` and anything but spreading out the modifiers as much as possible yields suboptimal results. Therefore, the optimal solution here is to apply +200% to each number giving us `3 * 3 * 3 = 27`, you can try shifting the gains around, but I guarantee you, this is the optimal solution.
+
+Therefore, what you need to consider when picking mods is how much the given factor is already affected. 
+If you have a weapon (with base damage 1) that already has +300% damage, but no %elemental damage increase, and you're given the choice between an additional +100% damage or +75% elemental damage, disregarding any needs for specific damage types, the latter option will give a better raw DPS result.
+
+`1 * (1 + (300 + 100)/ 100) * 1 = 4`
+
+vs.
+
+`1 * (1 + (300) / 100) * (1 + (75)/100) = 4.75`
+
+There are therefore two rules of thumb for getting high damage numbers:
+* Go for cheap increases in any factor.
+* Try to spread out the increases into every factor.
