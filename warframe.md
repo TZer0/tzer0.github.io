@@ -105,7 +105,7 @@ The general trick to optimising the numbers is to spread out the increases as mu
 
 Suppose for simplicity we have mods that can increase any of these numbers by 100%, fire rate for simplicty starts off at 1, and that we can only install 6 mods.
 
-The base damage per second is `1 * 1 * 1 = 1` and anything but spreading out the modifiers as much as possible yields suboptimal results. Therefore, the optimal solution here is to apply +200% to each number giving us `3 * 3 * 3 = 27`, you can try shifting the gains around, but I guarantee you, this is the optimal solution.
+The base damage per second is `1 * 1 * 1 = 1` and anything but spreading out the modifiers as much as possible yields suboptimal results. Therefore, the optimal solution here is to apply +200% to each number giving us `3 * 3 * 3 = 27`, you can try shifting the gains around, but I guarantee you, this is the optimal solution (unless you want to fire more often/less often).
 
 Therefore, what you need to consider when picking mods is how much the given factor is already affected. 
 If you have a weapon (with base damage 1) that already has +300% damage, but no %elemental damage increase, and you're given the choice between an additional +100% damage or +75% elemental damage, disregarding any needs for specific damage types, the latter option will give a better raw DPS result.
