@@ -79,9 +79,9 @@ In order to understand how to maximise weapon damage, you need to understand the
 
 The damage per second formula is as follows (minus any status):
 
-`Base damage * %damage increase factor * %elemental damage increase factor * fire rate * crit factor * multi-shot * bonus damage`
+`DPS = base damage * %damage increase factor * %elemental damage increase factor * fire rate * crit factor * multi-shot * bonus damage`
 
-`Base damage` is the damage you see in your weapon with no mods installed.
+`base damage` is the damage you see in your weapon with no mods installed.
 
 `%damage increase factor` is `1 + total_damage_increase_in_percent/100`, so if you're running a top level hornet strike (220%) and nothing else, this number is `1 + (220)/100 = 3.2`.
 
