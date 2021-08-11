@@ -76,4 +76,5 @@ Market links: [Lohk](https://warframe.market/items/lohk) [Xata](https://warframe
 In order to understand how to maximise weapon damage, you need to understand the damage formula.
 
 The damage per second formula is as follows (minus any status):
+
 $$ base damage * %damage increase factor * %elemental damage increase factor * fire rate * crit factor * multi-shot * any other buff $$
