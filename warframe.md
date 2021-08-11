@@ -89,7 +89,7 @@ The damage per second formula is as follows (disregarding status effects):
 
 `fire rate` is literally just the fire rate, nothing special.
 
-`crit factor` is a combination of critical chance and critical damage. The formula is `1 + (critical_chance/100) * (critical_damage_multiplier - 1)`, so if you have a crit chance of 250% and multiplier of 4.5x, this number is `1 + (250/100) * (4.5 - 1) = 9.75` This means that on average each shot will deal 9.75x damage due to crits. In the example above, half the hits will deal 8x damage and the other half will deal 11.5.
+`crit factor` is a combination of critical chance and critical damage. The formula is `1 + (critical_chance/100) * (critical_damage_multiplier - 1)`, so if you have a crit chance of 250% and multiplier of 4.5x, this number is `1 + (250/100) * (4.5 - 1) = 9.75` This means that on average each shot will deal 9.75x damage due to crits - half the hits will deal 8x damage and the other half will deal 11.5.
 
 `multi-shot` is literally just the multi-shot number as seen in the stats.
 
