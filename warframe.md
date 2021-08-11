@@ -103,7 +103,7 @@ The damage per second formula is as follows (minus any status):
 ### Optimising
 The general trick to optimising the numbers is to spread out the increases as much as possible. Let's focus on just `%damage increase factor`, `%elemental damage increase factor` and `fire rate`.
 
-Supposed for simplicity we have mods that can increase any of these numbers by 100%, fire rate for simplicty starts off at 1, and that we can only install 6 mods.
+Suppose for simplicity we have mods that can increase any of these numbers by 100%, fire rate for simplicty starts off at 1, and that we can only install 6 mods.
 
 The base damage per second is `1 * 1 * 1 = 1` and anything but spreading out the modifiers as much as possible yields suboptimal results. Therefore, the optimal solution here is to apply +200% to each number giving us `3 * 3 * 3 = 27`, you can try shifting the gains around, but I guarantee you, this is the optimal solution.
 
