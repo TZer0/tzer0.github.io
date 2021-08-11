@@ -93,7 +93,7 @@ The damage per second formula is as follows (minus any status):
 
 `multi-shot` is literally just the multi-shot number as seen in the stats.
 
-`bonus damage` are effects such as toxic lash (Saryn), roar (Rhino) and smite/cleanse/expel/bane mods. These are multiplied with one another the same way, so if you cast toxic lash and it gives you +50% toxin damage, the factor is `1.5`, if you're also roar-buffed for another 50% damage, the number is `1.5 * 1.5 = 2.25`.
+`bonus damage` are effects such as toxic lash (Saryn), roar (Rhino) and smite/cleanse/expel/bane mods. These are multiplied with one another, so if you cast toxic lash and it gives you +50% toxin damage, the factor is `1.5`, if you're also roar-buffed for another 50% damage, the number is `1.5 * 1.5 = 2.25`.
 
 ### Notes
 * +damage% from weapon arcanes apply additively to `%damage increase factor`. So if you have max stack on a primary or secondary arcane, that number increases by 3.6.
