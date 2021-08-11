@@ -96,7 +96,7 @@ The damage per second formula is as follows (minus any status):
 `bonus damage` are effects such as toxic lash (Saryn), roar (Rhino) and smite/cleanse/expel/bane mods. These are multiplied with one another, so if you cast toxic lash and it gives you +50% toxin damage, the factor is `1.5`, if you're also roar-buffed for another 50% damage, the number is `1.5 * 1.5 = 2.25`.
 
 ### Notes
-* +damage% from weapon arcanes apply additively to `%damage increase factor`. So if you have max stack on a primary or secondary arcane, that number increases by 3.6.
+* +damage% from weapon arcanes apply additively to `%damage increase factor`. So if you have max stacks on a primary or secondary arcane, that number increases by 3.6.
 * [Arcane Avenger](https://warframe.fandom.com/wiki/Arcane_Avenger) adds absolute percentage points to the critical chance rather than applying to the base critical chance. This is incredibly powerful on weapons with a low base crit rate, but high crit multiplier such as the [Kuva Nukor](https://warframe.fandom.com/wiki/Kuva_Nukor), increasing the damage by a factor of 4.275x if a max rank [Primed Target Cracker](https://warframe.fandom.com/wiki/Primed_Target_Cracker).
 * Most arcanes apply additively to their respective factors, so on a weapon that has a fire rate of 5, [Lethal Torrent](https://warframe.fandom.com/wiki/Lethal_Torrent) and [Arcane Velocity](https://warframe.fandom.com/wiki/Arcane_Velocity) equipped, while the latter is active, the fire rate will be `5 * (1 + 0.6 + 1.2) = 14.0`.
 
