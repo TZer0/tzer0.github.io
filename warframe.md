@@ -77,4 +77,6 @@ In order to understand how to maximise weapon damage, you need to understand the
 
 The damage per second formula is as follows (minus any status):
 
-$$ base damage * %damage increase factor * %elemental damage increase factor * fire rate * crit factor * multi-shot * any other buff $$
+base damage * %damage increase factor * %elemental damage increase factor * fire rate * crit factor * multi-shot * any other buff
+
+
