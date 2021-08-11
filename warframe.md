@@ -125,4 +125,4 @@ There are therefore two rules of thumb for getting high damage numbers:
   * Not including Kuva Nukor's microwave effect when calculating extra damage due to status effects on mods such as [Galvanized Shot](https://warframe.fandom.com/wiki/Galvanized_Shot).
   * No option to include warframe arcanes in the calculations.
   * No option to apply only specific conditionals.
-* Make sure to turn apply conditionals on and off when modding to have an idea how the weapon performs with and without stacks.
+* Make sure to turn apply conditionals in Overframe on and off when modding to have an idea how the weapon performs with and without stacks.
