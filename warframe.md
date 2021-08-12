@@ -25,7 +25,7 @@ If you're a new player (or about to start playing), I have the following recomme
 * Check what weapons are required as ingredients for other weapons before you throw away any of them [here](https://warframe.fandom.com/wiki/Weapons_Required_as_Crafting_Ingredients).
 * Get a Kuva Nukor when you can (you won't regret it).
 * Don't spend plat on something you could earn by just playing the game.
-* Don't sell non-prime frames if you get the prime variant. Get the helminth segment instead and subsume the frame
+* Don't sell non-prime frames if you get the prime variant. Get the helminth segment instead and subsume the frame.
 
 ### Late-game tips
 
@@ -116,9 +116,10 @@ vs.
 
 `1 * (1 + (300) / 100) * (1 + (75) / 100) = 4.75`
 
-There are therefore two rules of thumb for getting high damage numbers:
+There are therefore some rules of thumb for making well-performing weapons:
 * Go for cheap increases in any factor.
 * Try to spread out the increases into every factor.
+* Weapons are usually either high status chance or high crit chance/damage. Pick mods accordingly: increase already high base numbers and consider crit damage and crit chance as one number (unless the weapon has a low fire rate and you need reliability).
 
 #### Tips
 * A lot of this can be done sort of automatically through Overframe - just keep adding mods that are the best at increasing effective damage, but do note that Overframe does some odd assumptions about certain things, here's a list of things you need to be aware of (and hence why it is important to know about the formula above):
