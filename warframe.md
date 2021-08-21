@@ -3,7 +3,9 @@
 This document contains useful knowledge for playing Warframe.
 
 ## Useful Websites/Links
-[Warframe.market](https://warframe.market/) - [Ducanator (use to figure out trade away for ducats)](https://warframe.market/tools/ducats)
+[Warframe.market](https://warframe.market/) - Trading
+
+[Ducanator](https://warframe.market/tools/ducats) - Helps you figure out what to trade away for ducats
 
 [Riven average price list](https://semlar.com/rivenprices)
 
@@ -28,6 +30,12 @@ If you're a new player (or about to start playing), I have the following recomme
 * Get a Kuva Nukor when you can (you won't regret it).
 * Don't spend plat on something you could earn by just playing the game.
 * Don't sell non-prime frames if you get the prime variant. Get the helminth segment instead and subsume the frame.
+
+### Progressing through the game
+There are a few things to do to progress:
+* Gain mastery ranks
+* Check the requirement of junctions, those will guide you through the game.
+* Check the codex station for quests
 
 ### Late-game tips
 
