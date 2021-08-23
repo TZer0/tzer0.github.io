@@ -136,4 +136,5 @@ There are therefore some rules of thumb for making well-performing weapons:
   * Not including Kuva Nukor's microwave effect when calculating extra damage due to status effects on mods such as [Galvanized Shot](https://warframe.fandom.com/wiki/Galvanized_Shot).
   * No option to include warframe arcanes in the calculations.
   * No option to apply only specific conditionals.
+  * Not taking into special conditions such as a knell's infinite ammo on headshot (thus undervaluaing a mod like anemic agility289830409397731338)
 * Make sure to turn apply conditionals in Overframe on and off when modding to have an idea how the weapon performs with and without stacks.
