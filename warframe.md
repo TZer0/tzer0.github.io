@@ -100,9 +100,9 @@ The average damage per second formula is as follows (disregarding status effects
 
 `fire rate` is literally just the fire rate. Calculated the same with increases as the above factors: `base_fire_rate * (1 + total_fire_rate_increase_in_percept/100)`. Example with [gunslinger](https://warframe.fandom.com/wiki/Gunslinger) on an [aklex](https://warframe.fandom.com/wiki/Aklex): `1.58 * (1 + 0.72) = 2.7176`
 
-`crit factor` is a combination of critical chance and critical damage. The formula is `1 + (critical_chance/100) * (critical_damage_multiplier - 1)`, so if you have a crit chance of 250% and multiplier of 4.5x, this number is `1 + (250/100) * (4.5 - 1) = 9.75` This means that on average each shot will deal 9.75x damage due to crits - half the hits will deal 8x damage and the other half will deal 11.5.
+`crit factor` is a combination of critical chance and critical damage. The formula is `1 + (critical_chance/100) * (critical_damage_multiplier - 1)`, so if you have a crit chance of 250% and multiplier of 4.5x, this number is `1 + (250/100) * (4.5 - 1) = 9.75` This means that on average each shot will deal 9.75x damage due to crits - half the hits will deal 8x damage and the other half will deal 11.5. `critical_chance` and `critical_damage_multiplier` are both calculated the same way as the other factors: `base * (1 + percent_increase/100)`
 
-`multi-shot` is literally just the multi-shot number as seen in the stats.
+`multi-shot` is literally just the multi-shot number as seen in the stats: `base * (1 + percent_increase/100)`.
 
 `bonus damage` are effects such as toxic lash (Saryn), roar (Rhino) and smite/cleanse/expel/bane mods. These are multiplied with one another, so if you cast toxic lash and it gives you +50% toxin damage, the factor is `1.5`, if you're also roar-buffed for another 50% damage, the number is `1.5 * 1.5 = 2.25`.
 
