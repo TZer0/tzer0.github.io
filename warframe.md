@@ -98,7 +98,7 @@ The average damage per second formula is as follows (disregarding status effects
 
 `%elemental damage increase factor` is `1 + total_elemental_damage_increase_in_percent/100`, so having primed cryo rounds at max rank (165%) and infected clip at max rank (90%), this number is `1 + (165 + 90)/100 = 3.55`  
 
-`fire rate` is literally just the fire rate, nothing special.
+`fire rate` is literally just the fire rate. Calculated the same with increases as the above factors: `base_fire_rate * (1 + total_fire_rate_increase_in_percept/100)`. Example with [gunslinger](https://warframe.fandom.com/wiki/Gunslinger) on an [aklex](https://warframe.fandom.com/wiki/Aklex): `1.58 * (1 + 0.72) = 2.7176`
 
 `crit factor` is a combination of critical chance and critical damage. The formula is `1 + (critical_chance/100) * (critical_damage_multiplier - 1)`, so if you have a crit chance of 250% and multiplier of 4.5x, this number is `1 + (250/100) * (4.5 - 1) = 9.75` This means that on average each shot will deal 9.75x damage due to crits - half the hits will deal 8x damage and the other half will deal 11.5.
 
