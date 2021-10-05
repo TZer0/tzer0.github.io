@@ -84,7 +84,7 @@ Honestly, everything here loops back to one thing: engagement.
 The more you click, the higher Twitter's numbers get (including advertising revenue). Everything is geared towards tapping into emotions that make you click.
 
 So there are two things that in my opinion are core to influencing you as an individual here:
-- The recommendation engine will try to guess what you makes you click something based on who it thinks you are and what you're currently looking at. The engine knows that the content it is presenting to you has been engaging to others, but it doesn't care in what way (and remember: being angry can be addictive). Sometimes it'll show you cute and wholesome content, other times it'll be things that enrage you.
+- The recommendation engine will try to guess what you makes you click something based on who it thinks you are and what you're currently looking at. The engine knows that the content it is presenting to you has been engaging to others, but it doesn't care in what way. Sometimes it'll show you cute and wholesome content, other times it'll be things that enrage you, what you feel is secondary, engagement is the point.
 - The format of the discussions on Twitter pushes you towards clicking through many times to watch the entire spectacle and creates avenues for extra engagement through misrepresentation and misunderstandings.
 
 I'd like to posit two things here:
