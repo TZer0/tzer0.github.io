@@ -77,4 +77,16 @@ Your only real options are to not tweet or put your your account into private mo
 ### `?s=XX`
 If you are sharing a link, make sure to trim away the last part of the URL (if it exists) that says `?s=XX` where `XX` is a number such as `?s=21`. This gets appended when you share a link from mobile and changes how the tweet is viewed on desktop if opened. Rather than showing you the tweet + the responses undearneath, it instead shows you the tweet, parts of the thread if it is in a chain, three responses and then other suggested tweets picked by an algorithm. This is an engagement-boosting device they have made that you should be aware of.
 
-Click the linked tweet to get rid of this parameter without manually editing the URL.
+## So Wait, Why is it Like This?
+
+Honestly, everything here loops back to one thing: engagement.
+
+The more you click, the higher Twitter's numbers get (including advertising revenue). Everything is geared towards tapping into emotions that make you click.
+
+So there are two things that in my opinion are core to influencing you as an individual here:
+- The recommendation engine will try to guess what you makes you click something based on who it thinks you are and what you're currently looking at. The engine knows that the content it is presenting to you has been engaging to others, but it doesn't care in what way (and remember: being angry can be addictive). Sometimes it'll show you cute and wholesome content, other times it'll be things that enrage you.
+- The format of the discussions on Twitter pushes you towards clicking through many times to watch the entire spectacle and creates avenues for extra engagement through misrepresentation and misunderstandings.
+
+I'd like to posit two things here:
+- Algorithmically driven social media content suggestions are inherently dangerous and need to be treated with care. One thing is a webstore showing you content you might be interested in, but another company in this space - Facebook - [has in the past on purpose attempted to manipulate the feelings of its users](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/). I think a quick fix here would be to make the recommendation engine only show you people you might be interested in following (which it already does) rather than tweets from around the site, but this will make the platform less engaging as you'd have to click through to view their content, so I'm not holding my breath for this one.
+- Quote retweets as a device need to be restricted to posts that specifically allow it. While it may be fun to dunk on obvious reactionaries or bad people with a quote tweet on your timeline, the sacrifice here is that in-community discussions by default become harder. I think that the ability to quote tweet a message should either be completely removed or mbe made by default turned off and only enabled through an explicit checking of a checkbox.
