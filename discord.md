@@ -151,7 +151,7 @@ This assumes you've already set up reaction roles using `!rr make`.
 20. Bios are being added. However: you can't filter what server members are able to see and there's no explicit pronouns field available.
 21. If a server you're in gets banned, your user might be taken with it regardless of level of participation.
 22. There are still Discord-crashing gifs and videos.
-23. 01.07.2021: Discord is embedding videos on linked tweets are jpegs with no indication that there's a video.
+23. 01.07.2021: Discord is embedding videos on linked tweets as jpegs with no indication that there's a video.
 24. Hovering a link in an embed doesn't tell you where it leads.
 
 #### Contributors
