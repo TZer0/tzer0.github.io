@@ -42,7 +42,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 
 ## Making sure that users do not mute `@everyone`/`@here` mentions
 
-The general tip is to not make your server noisy in this regard. Generally, if you're pinging once per day you might already be doing it too much.
+The general tip is to not make your server noisy in this regard. If you're pinging once per day you might already be doing it too much.
 
 * First of all: do not let regular users ping. People will make mistakes and it'll be grating. It also reduces easy spam opportunities.
 * The more you ping, the less attention people will pay.
