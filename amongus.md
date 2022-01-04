@@ -20,6 +20,7 @@ Key bindings:
 - [Skeld](https://www.reddit.com/r/AmongUs/comments/f6m9mx/skeld_map_guide/)
 - [Mira HQ](https://www.reddit.com/r/AmongUs/comments/ihhba0/mira_hq_map_guide/)
 - [Polus](https://www.reddit.com/r/AmongUs/comments/ij9qiv/polus_map_guide_w_marked_tasks_cameras_vents/)
+- [Airship](https://www.reddit.com/r/AmongUs/comments/mhdvv7/airship_map_with_vents_cams_and_crises/)
 
 ## As a crewmate
 
