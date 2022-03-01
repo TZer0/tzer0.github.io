@@ -52,3 +52,7 @@ This may seem incredibly banal to people of colour, but I feel I need to acknowl
 Pundits talking over people in the area, all the masks slippages happening while people talk ("this kind of war is not supposed to happen between **civilised countries**"), injustices perpetrated against evacuees that aren't white, and just the general blatant obviousness of the fact that the coverage of this situation is very much inversely proportional to the melanin in the skin of those affected.
 
 It is incredibly gross.
+
+## Long-term consequences in Ukraine
+
+I think Ukraine will get out of this as a sovereign nation and I feel like various politicians that aren't great (from my perspective: anyone on the right) will be able to brand themselves heroes by sticking through the conflict.
