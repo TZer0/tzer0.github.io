@@ -66,7 +66,7 @@ Key bindings:
 ### 3v1, two crewmembers hard cleared
 Crewmates should stick together as much as possible. If you're the hard cleared one, you need to see your hard clear partner get killed without the non-hardcleared crewmate lying dead in some corner. If you are not hard cleared and there's a split sabotage (oxygen, reactor), then it is your job to charge towards the one that the hard cleared duo isn't doing. The duo should go to the other part of the sabotage together if it isn't resolved in a reasonable amount of time.
 
-As an impostor it is your best bet to snag an in-the-dark ninja vent kill on the hard cleared duo to force a showdown between you and the non-hardcleared crewmate, or kill said crewmate first and then killed any part of the duo.
+As an impostor it is your best bet to snag an in-the-dark ninja vent kill on the hard cleared duo to force a showdown between you and the non-hardcleared crewmate, or kill said crewmate first and then kill any part of the duo.
 
 
 ## How settings affect the game
