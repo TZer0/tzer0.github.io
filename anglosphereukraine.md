@@ -26,14 +26,18 @@ I do not wish to blame all the people in the anglosphere for this (especially si
 
 I'm not saying that US aid to Ukraine should stop, I'm asking if one could perhaps focus on stopping conflicts where stopping the supply of weapons would halt it.
 
-## Regarding the azov battalion and claims of Ukraine being a nazi country
+## Regarding the Azov battalion and claims of Ukraine being a nazi country
 
-Absolutely fuck the azov battalion. The fact that they're currently a part of the Ukrainian military is despicable and it should be dismantled the moment fighting dies down (and should've been dismantled ages ago).
+Absolutely fuck the Azov battalion. The fact that they're currently a part of the Ukrainian military is despicable and it should be dismantled the moment fighting dies down (and should've been dismantled ages ago).
 
-The azov battalion however does not make a compelling reason to invade a country. By the same logic, Russia and the US should've been invaded a long time ago and we know that this is not how to solve a far-right extremism issue.
+The Azov battalion however does not make a compelling reason to invade a country. By the same logic, Russia and the US should've been invaded a long time ago and we know that this is not how to solve a far-right extremism issue.
 
 Ukraine is not some nazi-lead country.
 Volodymyr Zelenskyj, the current president of Ukraine, is Jewish. The most [generous estimates in terms of votes for far right parties during the 2014 election seem to be about 2%](https://en.wikipedia.org/wiki/2014_Ukrainian_presidential_election#Results).
+
+On top of this, war usually has two effects:
+- Far right people are drawn to violence. An armed conflict allows them to get training and real-world experience.
+- Far right radicalisation is much more likely to occur when the nation you're in is under military attacks.
 
 ## Additional notes
 
