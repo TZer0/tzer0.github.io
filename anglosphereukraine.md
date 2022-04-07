@@ -8,6 +8,8 @@ Hence, nothing in this document supports Russian imperialist actions against Ukr
 
 I'm also not blaming ordinary people in any country mentioned. Do not attack individual Russians over the actions of the Russian state.
 
+Fuck Putin.
+
 ## First of all: take it easy
 
 If you're worried about the situation in Ukraine beyond being concerned about people's safety, please know that you will be fine. It is rather unlikely that there will be any consequences for you coming out of this conflict. Nuclear war is **unlikely** even though Putin has ordered readiness, he does not have any reason to launch them unless foreign armies start taking Russian land, which no one is interested in doing anyway.
@@ -60,3 +62,5 @@ It is incredibly gross.
 ## Long-term consequences in Ukraine
 
 I think Ukraine will get out of this as a sovereign nation and I feel like various politicians that aren't great (from my perspective: anyone on the right) will be able to brand themselves heroes by sticking through the conflict.
+
+The cleanup will be an utter mess.
