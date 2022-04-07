@@ -153,6 +153,7 @@ This assumes you've already set up reaction roles using `!rr make`.
 22. There are still Discord-crashing gifs and videos.
 23. 01.07.2021: Discord is embedding videos on linked tweets as jpegs with no indication that there's a video.
 24. Hovering a link in an embed doesn't tell you where it leads.
+25. Embeds of videos from Twitter often do not play and perform poorly in full-screen, fxtwitter.com exists as a way to mitigate this.
 
 #### Contributors
 - TZer0
