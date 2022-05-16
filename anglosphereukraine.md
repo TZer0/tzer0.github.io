@@ -57,11 +57,17 @@ It is most likely a combination of factors. These are things I think may have co
 > "We don't want to use any kind of blackmail. This is a question for the Ukrainian people," said Glazyev. "But legally, signing this agreement about association with EU, the Ukrainian government violates the treaty on strategic partnership and friendship with Russia." When this happened, he said, Russia could no longer guarantee Ukraine's status as a state and could possibly intervene if pro-Russian regions of the country appealed directly to Moscow.
 - Russia felt that Ukraine was slipping out of its sphere of influence and hence felt it would be better to capture and hold it to have a smaller border (with better terrain) to actually man against countries that are not pro-Russian.
 
-What it definitively isn't:
-- Defending the separatist republics - this could've been more easily achieved by focusing specifically on Eastern Ukraine, instead they stretched thin and have now risked everything.
+### What it definitively isn't
+- Defending the separatist republics - this could've been more easily achieved by focusing specifically on Eastern Ukraine, instead they stretched thin and have now risked everything. On top of that, activity in that area had been rather low recently as most deaths were in 2014-2016, with most recent casualties being primarily Ukrainian. Many, many more people have died since the invasion than between in the siege.
 - Denazification -  please check [Wagner Group](https://en.wikipedia.org/wiki/Wagner_Group), named such due to Wagner being Hitler's favourite composer and do search up pictures of Dmitry Utkin (who uses "Wagner" as his callsign). Charity could've began at home.
 
-On top of that, letting the separatist republics happen and annexing Crimea was a violation of a [1997 treaty between Ukraine and Russia](https://en.wikipedia.org/wiki/Russian%E2%80%93Ukrainian_Friendship_Treaty). What little I can glean from this is that Russia should've in fact helped Ukraine deal with the separatist republics, let alone what a grave violation it was to enter and annex Crimea. Russia never signalled its desire to end the treaty (just that it would consider declining a trade deal a violation) prior to failing to meet its obligations.
+## Treaty violations?
+
+While digging through the [Minsk-agreements](https://en.wikipedia.org/wiki/Minsk_agreements) can be difficult, lack of clarity of who shot fired first when, looking at a previous treaty between Ukraine and Russia paints a much clearer picture.
+
+Letting the separatist republics happen and annexing Crimea were violations of [this 1997 treaty between Ukraine and Russia](https://en.wikipedia.org/wiki/Russian%E2%80%93Ukrainian_Friendship_Treaty). What little I can glean from this is that Russia should've in fact helped Ukraine deal with the separatist republics, let alone what a grave violation it was to enter and annex Crimea. Russia never signalled its desire to end the treaty (just that it would consider declining a trade deal a violation) prior to failing to meet its obligations.
+
+As such, treaties with Russia are worth less than the paper they were written on.
 
 ## Additional notes
 
