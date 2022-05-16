@@ -41,6 +41,28 @@ On top of this, war usually has two effects:
 - Far right people are drawn to violence. An armed conflict allows them to get training and real-world experience.
 - Far right radicalisation is much more likely to occur when the nation you're in is under military attacks.
 
+## Claim: "Russia didn't send their best and they didn't want all of Ukraine"
+
+Yes, they did send their best and yes, the goal was to take all of Ukraine. They dropped paratroopers onto airfields day 1 and the did a wide attack basically over every single part of the border they could.
+
+The reason it all went so wrong for Russia is because Ukraine saw the writing on the wall and spent the last eight years preparing. Destabilising by encouraging regions to separate from a country (or doing so by force) followed by full-scale invasion is something that Russia has [done before](https://en.wikipedia.org/wiki/Russo-Georgian_War).
+
+This is an act of imperialism.
+
+## Why did the invasion happen?
+
+It is most likely a combination of factors. These are things I think may have contributed to the decision to invade, however, I need to stress: I'm no expert.
+- Putin might want a legacy in conquering Kyiv. It is an important city in both Ukraine's and Russia's history. It needs to be mentioned that Russia as a name can be interpreted as a threat to conquer all of the area that was historically a part of the [Kyivan Rus'](https://en.wikipedia.org/wiki/Kievan_Rus%27), especially when someone says "Greater Russia".
+- It might be literally petty revenge for a trade deal not going through, quoting from [The Guardian in 2013](https://www.theguardian.com/world/2013/sep/22/ukraine-european-union-trade-russia): 
+> "We don't want to use any kind of blackmail. This is a question for the Ukrainian people," said Glazyev. "But legally, signing this agreement about association with EU, the Ukrainian government violates the treaty on strategic partnership and friendship with Russia." When this happened, he said, Russia could no longer guarantee Ukraine's status as a state and could possibly intervene if pro-Russian regions of the country appealed directly to Moscow.
+- Russia felt that Ukraine was slipping out of its sphere of influence and hence felt it would be better to capture and hold it to have a smaller border (with better terrain) to actually man against countries that are not pro-Russian.
+
+What it definitively isn't:
+- Defending the separatist republics - this could've been more easily achieved by focusing specifically on Eastern Ukraine, instead they stretched thin and have now risked everything.
+- Denazification -  please check [Wagner Group](https://en.wikipedia.org/wiki/Wagner_Group), named such due to Wagner being Hitler's favourite composer and do search up pictures of Dmitry Utkin (who uses "Wagner" as his callsign). Charity could've began at home.
+
+On top of that, letting the separatist republics happen and annexing Crimea was a violation of a [1997 treaty between Ukraine and Russia](https://en.wikipedia.org/wiki/Russian%E2%80%93Ukrainian_Friendship_Treaty). What little I can glean from this is that Russia should've in fact helped Ukraine deal with the separatist republics, let alone what a grave violating it was to enter Crimea. Russia never signalled its desire to end the treaty prior to failing to meet its obligations.
+
 ## Additional notes
 
 Please be careful about who you listen to.
