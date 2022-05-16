@@ -59,7 +59,7 @@ It is most likely a combination of factors. These are things I think may have co
 
 ### What it definitively isn't
 - Defending the separatist republics - this could've been more easily achieved by focusing specifically on Eastern Ukraine, instead they stretched thin and have now risked everything. On top of that, activity in that area had been rather low recently as most deaths were in 2014-2016, with most recent casualties being primarily Ukrainian. Many, many more people have died since the invasion than between 2014 and 2022 in the siege.
-- Denazification -  please check [Wagner Group](https://en.wikipedia.org/wiki/Wagner_Group), named such due to Wagner being Hitler's favourite composer and do search up pictures of Dmitry Utkin (who uses "Wagner" as his callsign). Charity could've began at home.
+- Denazification -  please check [Wagner Group](https://en.wikipedia.org/wiki/Wagner_Group), named such due to Wagner being Hitler's favourite composer and do search up pictures of Dmitry Utkin (who uses "Wagner" as his callsign). Charity could've began at home. This is not the only neo-nazi group in Russia.
 
 ## Treaty violations?
 
