@@ -12,7 +12,7 @@ Fuck Putin.
 
 ## First of all: take it easy
 
-If you're worried about the situation in Ukraine beyond being concerned about people's safety, please know that you will be fine. It is rather unlikely that there will be any consequences for you coming out of this conflict. Nuclear war is **unlikely** even though Putin has ordered readiness, he does not have any reason to launch them unless foreign armies start taking Russian land, which no one is interested in doing anyway.
+If you're worried about the situation in Ukraine beyond being concerned about people's safety, please know that you will be fine. It is rather unlikely that there will be any consequences for you coming out of this conflict. [**Nuclear war is incredibly unlikely**](https://www.youtube.com/watch?v=sxOO0hCCSk4) even though Putin has ordered readiness (Russia often does this as a scare tactic). He does not have any reason to launch them unless foreign armies start taking Russian land, which no one is interested in doing anyway.
 
 **You are at least an ocean away from this situation, so especially if you're struggling, please do not follow this situation.**
 
