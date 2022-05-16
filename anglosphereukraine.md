@@ -61,7 +61,7 @@ What it definitively isn't:
 - Defending the separatist republics - this could've been more easily achieved by focusing specifically on Eastern Ukraine, instead they stretched thin and have now risked everything.
 - Denazification -  please check [Wagner Group](https://en.wikipedia.org/wiki/Wagner_Group), named such due to Wagner being Hitler's favourite composer and do search up pictures of Dmitry Utkin (who uses "Wagner" as his callsign). Charity could've began at home.
 
-On top of that, letting the separatist republics happen and annexing Crimea was a violation of a [1997 treaty between Ukraine and Russia](https://en.wikipedia.org/wiki/Russian%E2%80%93Ukrainian_Friendship_Treaty). What little I can glean from this is that Russia should've in fact helped Ukraine deal with the separatist republics, let alone what a grave violating it was to enter Crimea. Russia never signalled its desire to end the treaty prior to failing to meet its obligations.
+On top of that, letting the separatist republics happen and annexing Crimea was a violation of a [1997 treaty between Ukraine and Russia](https://en.wikipedia.org/wiki/Russian%E2%80%93Ukrainian_Friendship_Treaty). What little I can glean from this is that Russia should've in fact helped Ukraine deal with the separatist republics, let alone what a grave violation it was to enter and annex Crimea. Russia never signalled its desire to end the treaty (just that it would consider declining a trade deal a violation) prior to failing to meet its obligations.
 
 ## Additional notes
 
