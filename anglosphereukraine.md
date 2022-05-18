@@ -45,7 +45,7 @@ On top of this, war usually has two effects:
 
 Yes, they did send their best and yes, the goal was to take all of Ukraine. They dropped paratroopers onto airfields day 1 and the did a wide attack basically over every single part of the border they could.
 
-The reason it all went so wrong for Russia is because Ukraine saw the writing on the wall and spent the last eight years preparing. Destabilising by encouraging regions to separate from a country (or doing so by force) followed by full-scale invasion is something that Russia has [done before](https://en.wikipedia.org/wiki/Russo-Georgian_War).
+The reason it all went so wrong for Russia is because Ukraine saw the writing on the wall and spent the last eight years preparing. Destabilising by encouraging regions to separate from a country (or doing so by force) to gain influence is something that Russia has [done before](https://en.wikipedia.org/wiki/Russo-Georgian_War). An invasion is not so far fetched.
 
 This is an act of imperialism.
 
