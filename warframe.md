@@ -11,8 +11,6 @@ This document contains useful knowledge for playing Warframe.
 
 [Official drop tables for the entire game](https://www.warframe.com/droptables)
 
-[Get Ignis Wraith for free (MR9 required)](https://forums.warframe.com/topic/1204479-infinite-ignis-wraith-giveaway-aka-officially-declaring-ignis-wraith-market-price-at-0p-pc-only/)
-
 [Overframe.gg](https://overframe.gg/) - helps you theorycraft builds
 
 [Warframe Hub](https://hub.warframestat.us/#/) - cycle timers, fissures, invasions and more
