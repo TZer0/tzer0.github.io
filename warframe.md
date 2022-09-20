@@ -43,7 +43,32 @@ There are a few things to do to progress:
 
 ## Making Plat
 
+
+### Zariman runs
+
+#### Overview
+Mode: any
+
+Requirements must have completed [The New War](https://warframe.fandom.com/wiki/The_New_War)
+
+Recommended: nodes: any
+
+Recommended setup: any that can deal with the missions, but it is recommended you bring [Golden Instinct](https://warframe.fandom.com/wiki/Golden_Instinct) and [Parallax](https://warframe.fandom.com/wiki/Parallax)
+
+Market links: [Molt Augmented](https://warframe.market/items/molt_augmented) [Molt Efficiency](https://warframe.market/items/molt_efficiency) [Molt Reconstruct](https://warframe.market/items/molt_reconstruct) [Molt Vigor](https://warframe.market/items/molt_vigor)
+
+#### Details
+
+This farm is very simple.
+
+1. All you need to do is to run any mission you feel like, pick up the [voidplumes](https://warframe.fandom.com/wiki/Voidplume) as you come across them, finding them with a combination of Golden Instinct and Parallax. Even better if you bring friends who also have this skill and lander.
+2. Trade them in with for standing with Archimedean Yonta
+3. Go buy the arcanes from Cavalero.
+4. Sell them on the market.
+
 ### Granum Void farming
+
+Note (September 2022): this method is now less efficient.
 
 #### Overview
 Mode: solo
