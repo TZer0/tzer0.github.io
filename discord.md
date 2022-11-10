@@ -67,6 +67,7 @@ The general tip is to not make your server noisy in this regard. If you're pingi
 * A good push to talk button is numpad 5 while num lock is off. Interacts with very few programs/games. I've tried using F24 which exists as an assignable button in Razer's driver software, but while it doesn't interact with any programs that I've noticed, it also gets stuck on frequently.
 * PTT doesn't work when any program running as admin is in focus. This includes task manager. If you were holding down your PTT button while selecting a program running as admin, your PTT will remain active even if you let go of the button. Press it again after unfocusing the window to stop broadcasting.
 * Do not ever edit out a ping, be it `@everyone`, `@role`, or `@user`. Do not edit in one either. The former leaves a ghost ping where people can see they got pinged, but won't find the message that did it, the latter doesn't ping the user/role in question.
+* To share a time for an event etc, use UNIX time stamps - `<t:TIME:F>`, see [this site](https://r.3v.fi/discord-timestamps/) to make these easily.
 
 ## Securing your server with a gate
 
