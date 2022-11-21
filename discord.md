@@ -12,7 +12,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * Do not assign pronoun roles, game roles, and other utility/descriptive roles manually - make a bot do that job.
 * Do not give bots permissions they shouldn't have. Dyno and MEE6 are notorious for asking for all the permissions, give them only the minimum they need and modify them as you see fit later.
 * When creating a new non-functional role (such as pingable game roles), make sure to clear permissions.
-* For privacy, restrict what channels bots can see. Give them the minimum needed access. Server deafen bots that join voice chats (such as music bots).
+* For privacy, restrict what channels bots can see. Give them the minimum needed access. If the bot relies on commands then there's no need to give it the permission to read the chat. Server deafen bots that join voice chats (such as music bots).
 * Create a text channel for linking/chatting next to voice chats.
 * Remember to turn off `@everyone` before starting to add roles. If you didn't, make sure to go through all the roles and remove that permission (especially in community servers).
 * Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode).
