@@ -18,6 +18,7 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * Mention in the rules that you'd like message links if someone is reporting bad behaviour (shows up in the right-click menu if you've enabled developer mode).
 * If you want a bigger version of someone's pfp, try [discord.id](https://discord.id/) and paste in the user's unique ID (dev mode, copy ID).
 * If you'd like to mention someone that isn't in the channel/in DMs, copy their ID and write `<@ID>`.
+* If discussing violations, do mention the user's unique ID at least once for easy indexing for later searches.
 * When creating a new voice chat, remember to turn up the bitrate.
 * Unless you're banning an obvious reactionary or spammer, make sure to not delete the person's messages. It is important that your fellow mods (and yourself, later) are able to verify that the ban was in fact justifiable.
 * Make sure to test your role colours in dark and light mode and that they have decent contrast in all situations, including in the list of offline users. Anything else can be hard to read and/or uncomfortable to look at.
@@ -39,6 +40,14 @@ These are instructions + tips and tricks I've learned from years of moderating o
 * Once your server hits more than 1000 users, you're going to start needing the following (perhaps you need these things even earlier):
   * Modmail. Carl-bot has one. If there are tasks that just need to be done sooner or later but aren't critical, then modmail is the place. It should be used to handle pronoun role requests, signal boosts if your server does those, and new channel requests. Use reacts in the modmail channel to denote what has been handled.
   * Instructions for users on when to contact moderators in DMs in a channel detailing things they might get contacted about. You can't avoid DMs regarding certain things such as reports of harassment, but there needs to be some effort in avoiding DMs being sent to moderators/admins as sooner or later you'll be getting too many (or maybe one particular mod is getting too many and no one knows about it). Specify that users are requested to read the channel before contacting moderators.
+
+## When to delete messages when banning/kicking
+Generally, you want to be able to verify that bans are justified.
+* The longer a user has been present, the less likely it is a good idea to delete the messages.
+* Ban obvious reactionaries, delete messages.
+* Do delete outright hateful messages.
+* Don't delete longer discussions, do delete the end of it if it happens to turn more hateful there.
+* Screencap if in doubt.
 
 ## Making sure that users do not mute `@everyone`/`@here` mentions
 
