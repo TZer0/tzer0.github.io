@@ -51,7 +51,7 @@ Mode: any
 
 Requirements must have completed [The New War](https://warframe.fandom.com/wiki/The_New_War)
 
-Recommended: nodes: any
+Recommended nodes: any on the Zariman
 
 Recommended setup: any that can deal with the missions, but it is recommended you bring [Golden Instinct](https://warframe.fandom.com/wiki/Golden_Instinct) and [Parallax](https://warframe.fandom.com/wiki/Parallax)
 
