@@ -49,7 +49,7 @@ There are a few things to do to progress:
 #### Overview
 Mode: any
 
-Requirements must have completed [The New War](https://warframe.fandom.com/wiki/The_New_War)
+Requirements: must have completed [The New War](https://warframe.fandom.com/wiki/The_New_War)
 
 Recommended nodes: any on the Zariman
 
