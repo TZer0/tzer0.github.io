@@ -28,6 +28,7 @@ If you're a new player (or about to start playing), I have the following recomme
 * Get a Kuva Nukor when you can (you won't regret it).
 * Don't spend plat on something you could earn by just playing the game.
 * Don't sell non-prime frames if you get the prime variant. Get the helminth segment instead and subsume the frame.
+* Get a Railjack (start by purchasing the railjack cephalon from the in-game marketplace after The Second Dream). Railjack is great for earning credits, cracking relics while getting new ones, mastery, and getting unique weapons.
 
 ### Progressing through the game
 There are a few things to do to progress:
