@@ -45,20 +45,22 @@ There are a few things to do to progress:
 
 ## On Platinum and Trading
 
-**>>>Important: do not use the in-game trade chat <<<**
-Use [Warframe.market](https://warframe.market/) instead as it is much cheaper. It is completely within ToS as it does not rely on external tools interacting with the game and because all transactions happen within the game for plat only.
+* **Important: do not use the in-game trade chat**
+  * Use [Warframe.market](https://warframe.market/) instead as it is much cheaper. It is completely within ToS as it does not rely on external tools interacting with the game and because all transactions happen within the game for plat only.
+  * Be nice to others, seriously. Don't use in-game trade chat to rip people off and be somewhat understanding on warframe.market if someone makes a mistake.
+* **Additionally, when trading on warframe.market, if you're looking at a mod or an arcane, make sure to check both unranked and max rank prices.**
+  * Sometimes max rank is cheaper for arcanes, sometimes not. There are also some people who charge outrageous prices for max rank mods that only have 3 or 5 ranks (and are thus cheap to max out).
+  * Remember that when trading legendary mods (all primed mods), you must pay a trade tax of one million credits to the game.
+* It is important that you save as much platinum early on for slots for your gear. 
+* You can earn some plat early on by either selling relics or opening them and selling prime parts you get from that (remember that sets often sell for more), try to [hunt rare mods from archwing interception](https://warframe.fandom.com/wiki/Dual_Rounds) to sell or [hunt nightmare mode mods](https://warframe.fandom.com/wiki/Nightmare_Mode#Mission_Rewards)
+* Avoid buying expensive prime parts early on - if you need more weapon power, go get yourself [a weapon from a lich instead](https://warframe.fandom.com/wiki/Kuva_Lich).
+* Baro Ki'Teer shows up once every two weeks. He sells primed versions of mods and rare weapons, both of which can be sold on to other players (provided the weapons haven't been touched in any way). 
+  * He takes payment in ducats and credits. Ducats are earned by trading in prime weapon and frame parts/blueprints at nearby terminals. Use the [Ducanator](https://warframe.market/tools/ducats) to figure out what to trade away.
+  * This is especially useful early on if you don't have the means to get rare parts from higher tier relics (neo, axi).
+  * When cracking relics with no specific goals, ducats are a good reason to pick whatever can be traded for the most of them if you don't see anything else you want. Do note that some rare parts (gold) only yield 65 and 45 and that there are both uncommon (silver) and common (bronze) parts that yield 25.
 
-**Additionally, when trading on warframe.market, if you're looking at a mod or an arcane, make sure to check both unranked and max rank prices**
-Sometimes max rank is cheaper for arcanes, sometimes not. There are also some people who charge outrageous prices for max rank mods that only have 3 or 5 ranks (and are thus cheap to max out).
 
-It is important that you save as much platinum early on for slots for your gear. 
-
-You can earn some plat early on by either selling relics or opening them and selling prime parts you get from that (remember that sets often sell for more), try to [hunt rare mods from archwing interception](https://warframe.fandom.com/wiki/Dual_Rounds) to sell or [hunt nightmare mode mods](https://warframe.fandom.com/wiki/Nightmare_Mode#Mission_Rewards)
-
-Avoid buying expensive prime parts early on - if you need more weapon power, go get yourself [a weapon from a lich instead](https://warframe.fandom.com/wiki/Kuva_Lich).
-
-
-## Making Plat
+## Making Platinum
 
 
 ### Zariman runs
