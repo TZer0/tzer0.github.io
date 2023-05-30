@@ -22,11 +22,11 @@ This document contains useful knowledge for playing Warframe.
 If you're a new player (or about to start playing), I have the following recommendations:
 * Don't pick Volt as your starting frame.
 * Join a clan (gets you access to Volt).
+* Don't spend plat on something you could earn by just playing the game. You never really have a good reason to do this.
 * The moment you hit mastery rank 4, get the Hek blueprint from the market and build it. It'll carry you well.
 * Buy every MK1 from the market in turn, level them to 30 and throw them in the bin.
 * Check what weapons are required as ingredients for other weapons before you throw away any of them [here](https://warframe.fandom.com/wiki/Weapons_Required_as_Crafting_Ingredients).
 * Get a Kuva Nukor when you can (you won't regret it).
-* Don't spend plat on something you could earn by just playing the game.
 * Don't sell non-prime frames if you get the prime variant. Get the helminth segment instead and subsume the frame.
 * Get a Railjack (start by purchasing the railjack cephalon from the in-game marketplace after The Second Dream). Railjack is great for earning credits, cracking relics while getting new ones, mastery, and getting unique weapons.
 * In the Q&A chat you can write `where <name of warframe>`, such as `where loki` to find out where a given frame is. `when baro` tells you next time the void trader will show up and where.
@@ -42,6 +42,21 @@ There are a few things to do to progress:
 * Perspicacity from helminth at rank 3 is useful for sorties. Allows you to hack panels without doing the minigame (because ciphers do not work).
 * Golden Instinct from helminth at rank 15 is useful for general content. Helps find you ayatan sculptures and rare crates.
 * Get galvanized mods from arbitration and arcanes from steel path to boost any primary/secondary weapon you own.
+
+## On Platinum and Trading
+
+**>>>Important: do not use the in-game trade chat <<<**
+Use [Warframe.market](https://warframe.market/) instead as it is much cheaper. It is completely within ToS as it does not rely on external tools interacting with the game and because all transactions happen within the game for plat only.
+
+**Additionally, when trading on warframe.market, if you're looking at a mod or an arcane, make sure to check both unranked and max rank prices**
+Sometimes max rank is cheaper for arcanes, sometimes not. There are also some people who charge outrageous prices for max rank mods that only have 3 or 5 ranks (and are thus cheap to max out).
+
+It is important that you save as much platinum early on for slots for your gear. 
+
+You can earn some plat early on by either selling relics or opening them and selling prime parts you get from that (remember that sets often sell for more), try to [hunt rare mods from archwing interception](https://warframe.fandom.com/wiki/Dual_Rounds) to sell or [hunt nightmare mode mods](https://warframe.fandom.com/wiki/Nightmare_Mode#Mission_Rewards)
+
+Avoid buying expensive prime parts early on - if you need more weapon power, go get yourself [a weapon from a lich instead](https://warframe.fandom.com/wiki/Kuva_Lich).
+
 
 ## Making Plat
 
