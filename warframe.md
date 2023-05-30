@@ -50,7 +50,7 @@ There are a few things to do to progress:
   * Be nice to others, seriously. Don't use in-game trade chat to rip people off and be somewhat understanding on warframe.market if someone makes a mistake.
 * **Additionally, when trading on warframe.market, if you're looking at a mod or an arcane, make sure to check both unranked and max rank prices.**
   * Sometimes max rank is cheaper for arcanes, sometimes not. There are also some people who charge outrageous prices for max rank mods that only have 3 or 5 ranks (and are thus cheap to max out).
-  * Remember that when trading legendary mods (all primed mods), you must pay a trade tax of one million credits to the game.
+  * Remember that when receiving legendary mods (all primed mods) in a trade, you must pay a trade tax of one million credits to the game.
 * It is important that you save as much platinum early on for slots for your gear. 
 * You can earn some plat early on by either selling relics or opening them and selling prime parts you get from that (remember that sets often sell for more), try to [hunt rare mods from archwing interception](https://warframe.fandom.com/wiki/Dual_Rounds) to sell or [hunt nightmare mode mods](https://warframe.fandom.com/wiki/Nightmare_Mode#Mission_Rewards)
 * Avoid buying expensive prime parts early on - if you need more weapon power, go get yourself [a weapon from a lich instead](https://warframe.fandom.com/wiki/Kuva_Lich).
