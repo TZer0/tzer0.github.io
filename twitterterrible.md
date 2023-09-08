@@ -1,5 +1,7 @@
 # Twitter is a Terrible Platform
 
+Edit (8th of September, 2023): to no surprise to anyone who has been paying attention to what kind of person Elon Musk is, basically everything here has gotten a magnitude worse.
+
 ## Twitter is Bad for Discourse
 
 I'm writing this to encourage anyone reading to be cautious around ambiguous discourse on Twitter. If you see someone make unambiguously bigoted statements then those should still be called out.

@@ -2,7 +2,7 @@
 
 **This document is specifically intended for people in the anglosphere - especially the US - concerned about the situation in Ukraine and is hence written as if you're someone in the anglosphere.**
 
-Before I begin and in case you don't know me: my parents are from two different countries that both border Russia, one of which (Poland) borders Ukraine and has been invaded or held by Russian-lead empires, the other (Norway) is a member of NATO and is essentially constantly doing its outmost to show that it is not a threat to Russia. I can't quite put into words the unease I heard in my mother's voice when talking about the situation.
+Before I begin and in case you don't know me: my parents are from two different countries that both border Russia, one of which (Poland) borders Ukraine and has been invaded or held by Russian-lead empires, the other (Norway) is a member of NATO and is essentially constantly doing its utmost to show that it is not a threat to Russia. I can't quite put into words the unease I heard in my mother's voice when talking about the situation.
 
 Hence, nothing in this document supports Russian imperialist actions against Ukraine. I want Ukraine to remain a sovereign country (even though I don't like the concept of states as they exist today) and I think it is okay that various countries around the world (including the US) lend their support to this. This is Russia doing imperialism.
 
