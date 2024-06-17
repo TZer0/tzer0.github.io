@@ -94,10 +94,11 @@ Market links: [Molt Augmented](https://warframe.market/items/molt_augmented) [Mo
 
 This farm is very simple.
 
-1. All you need to do is to run any mission you feel like, pick up the [voidplumes](https://warframe.fandom.com/wiki/Voidplume) as you come across them, finding them with a combination of Golden Instinct and Parallax. Even better if you bring friends who also have this skill and lander.
-2. Trade them in with for standing with Archimedean Yonta
-3. Go buy the arcanes from Cavalero.
-4. Sell them on the market.
+1. All you need to do is to run any mission you feel like, pick up the [voidplumes](https://warframe.fandom.com/wiki/Voidplume) as you come across them, finding them with a combination of Golden Instinct and Parallax. Even better if you bring friends who also have this skill and lander
+2. If you come across them, defeat void angels for bonus rewards.
+3. Trade them in with for standing with Archimedean Yonta.
+4. Go buy the arcanes from Cavalero.
+5. Sell them on the market.
 
 ### Granum Void farming
 
