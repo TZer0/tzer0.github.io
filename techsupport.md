@@ -25,9 +25,9 @@ This is useful in case your OS installation gets corrupted.
 
 ### Overheating
 Is your PC running slow? Are you hitting temperatures of 75 or higher? Investigate core frequencies on CPU and GPU. If it is dipping, that might be why.
-Step 1: Clean your case and radiators for dust.
-Step 2: If problem persists for CPU, apply new thermal paste on CPU.
-Step 3: If problem still persists, ping the role, probably get a new cooler.
+* Clean your case and radiators for dust
+* If problem persists for CPU, apply new thermal paste on CPU
+* Check if fans are working and if your cooler is specced for your CPU (rare occurrance that it isn't)
 
 ### Sources of instability that aren't always talked about
 * Outdated BIOS.
