@@ -12,6 +12,7 @@ Someone you know (or you!) has a technical problem. This document details a few 
 
 ## Software recommendations
 [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - shows temperatures and other important metics like fan speeds
+
 [NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app/) - use this instead of GeForce Experience
 
 ## Precautions for PC use
