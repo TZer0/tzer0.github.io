@@ -14,11 +14,11 @@ Fuck Putin.
 
 If you're worried about the situation in Ukraine beyond being concerned about people's safety, please know that you will be fine. It is rather unlikely that there will be any consequences for you coming out of this conflict. [**Nuclear war is incredibly unlikely**](https://www.youtube.com/watch?v=sxOO0hCCSk4) even though Putin has ordered readiness (Russia often does this as a scare tactic). He does not have any reason to launch them unless foreign armies start taking Russian land, which no one is interested in doing anyway.
 
-**You are at least an ocean away from this situation, so especially if you're struggling, please do not follow this situation.**
+**You are at least an ocean away from this situation and if you're struggling, please do not follow this situation.**
 
 ## Anglosphere pundits
 
-I want anglosphere pundits - especially US ones - to cover this less.
+I want anglosphere pundits - especially US ones - to cover this less. Edit (17th of June, 2024): just going to add some emphasis here and say that Ukraine should still be funded, perhaps even getting way more support. Perhaps even sending in third nation troops to secure backlines.
 
 The US is currently involved in some way in several conflicts that are not in any way getting the amount of attention that the Ukraine-Russia conflict is getting, where withdrawal of US support would mean effectively an end to bombings and murder of civialians. Two easy examples today (2022.03.01) would be Yemen and Palestine.
 
