@@ -2,9 +2,9 @@
 
 First of all, know who you are talking to on Twitter - install [Soupcan](https://bethylamine.github.io/library/browser-extension/). Most transphobes are terrible people otherwise. This extension highlights them in red.
 
-Edit (17th of June, 2024): it just keeps getting yet a magnitude worse. It is astounding really. I don't have much to add, but I thought I should note this here.
+Edit (2024.06.17): it just keeps getting yet a magnitude worse. It is astounding really. I don't have much to add, but I thought I should note this here.
 
-Edit (8th of September, 2023): to no surprise to anyone who has been paying attention to what kind of person Elon Musk is, basically everything here has gotten a magnitude worse.
+Edit (2023.09.08): to no surprise to anyone who has been paying attention to what kind of person Elon Musk is, basically everything here has gotten a magnitude worse.
 
 ## Twitter is Bad for Discourse
 

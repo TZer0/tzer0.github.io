@@ -18,7 +18,7 @@ If you're worried about the situation in Ukraine beyond being concerned about pe
 
 ## Anglosphere pundits
 
-I want anglosphere pundits - especially US ones - to cover this less. Edit (17th of June, 2024): just going to add some emphasis here and say that Ukraine should still be funded, perhaps even getting way more support. Perhaps even sending in third nation troops to secure backlines.
+I want anglosphere pundits - especially US ones - to cover this less. Edit (2024.06.17): just going to add some emphasis here and say that Ukraine should still be funded, perhaps even getting way more support. Perhaps even sending in third nation troops to secure backlines.
 
 The US is currently involved in some way in several conflicts that are not in any way getting the amount of attention that the Ukraine-Russia conflict is getting, where withdrawal of US support would mean effectively an end to bombings and murder of civialians. Two easy examples today (2022.03.01) would be Yemen and Palestine.
 
