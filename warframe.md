@@ -62,8 +62,22 @@ There are a few things to do to progress:
 
 ## Making Platinum
 
+### Simple methods/good ways to play
+
+ * Try to always do multiple things at the same time. If you have a nightwave challenge to do 3 extermination missions and to crack some relics, find a fissure on an extermination mission. The same applies to kuva survival + fissures, nightmare mode or railjack.
+ * Kullervo's shotgun's parts (but **not blueprint**) - [Rauta](https://warframe.market/items/rauta_set) - can be sold on the market. If you're going to do Duviri, make sure to do it during the fear, anger or sorrow cycles to be able to fight him for essentially free plat.
+ * Check if you have certain rare mods. Perhaps you have spare copies of dual rounds from archwing or maybe you have old mods that are only provided through Baro. Those could be worth something.
+ * Relic cracking in railjack can be incredibly lucrative. There are some complications in that missions take longer and are a bit more involved than a simple capture, to balance this out, keep the following things in mind: 
+  * Points of interest has a low % chance (double digits, depending on item) to drop something that can be valuable like parts/blueprints for [Nautilus](https://warframe.market/items/nautilus_set), [Carmine Penta](https://warframe.market/items/carmine_penta_set), or [Athodai](https://warframe.market/items/athodai_set). If it doesn't drop one of those parts, it may still give you something good.
+  * You're earning lots of credits and endo, you never need to to do the index again. Surplus parts can also be traded in for chunks of end too.
+  * Both mission and void storm reward tables contain new relics, including radded ones as well as other goodies.
+  * It gets you a good amount of affinity.
+  * It is fun and something you can bring along your newbie warframe friends to do (but they may be forced to play on the ship a lot).
+ * If a relic is vaulted, make sure to check if any of the parts in it or the relic itself is worth something.
+
 
 ### Zariman runs
+
 
 #### Overview
 Mode: any
