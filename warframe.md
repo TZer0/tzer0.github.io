@@ -27,7 +27,7 @@ If you're a new player (or about to start playing), I have the following recomme
 * Buy every MK1 from the market in turn, level them to 30 and throw them in the bin.
 * Check what weapons are required as ingredients for other weapons before you throw away any of them [here](https://warframe.fandom.com/wiki/Weapons_Required_as_Crafting_Ingredients).
 * Get a Kuva Nukor when you can (you won't regret it).
-* Don't sell non-prime frames if you get the prime variant. Get the helminth segment instead and subsume the frame.
+* Don't sell non-prime frames if you get the prime variant. Get the [helminth segment](https://warframe.fandom.com/wiki/Orbiter_Segments#Helminth_Segment) instead and subsume the frame.
 * Get a Railjack (start by purchasing the railjack cephalon from the in-game marketplace after The Second Dream). Railjack is great for earning credits, cracking relics while getting new ones, mastery, and getting unique weapons.
 * In the Q&A chat you can write `where <name of warframe>`, such as `where loki` to find out where a given frame is. `when baro` tells you next time the void trader will show up and where.
 
