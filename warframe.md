@@ -137,7 +137,7 @@ You can easily farm requiem mods from hunting [liches](https://warframe.fandom.c
 
 The requiem mods sell for 10-15 plat each.
 
-Market links: [Lohk](https://warframe.market/items/lohk) [Xata](https://warframe.market/items/xata) [Jahu](https://warframe.market/items/jahu) [Vome](https://warframe.market/items/vome) [Ris](https://warframe.market/items/ris) [Fass](https://warframe.market/items/fass) [Netra](https://warframe.market/items/netra) [Khra](https://warframe.market/items/khra)
+Market links: [Lohk](https://warframe.market/items/lohk) [Xata](https://warframe.market/items/xata) [Jahu](https://warframe.market/items/jahu) [Vome](https://warframe.market/items/vome) [Ris](https://warframe.market/items/ris) [Fass](https://warframe.market/items/fass) [Netra](https://warframe.market/items/netra) [Khra](https://warframe.market/items/khra) [Oull](https://warframe.market/items/oull)
 
 ## Increasing Weapon Damage
 These are general tips for optimising raw damage and does not account for extra damage or damage multipliers from statuses.
